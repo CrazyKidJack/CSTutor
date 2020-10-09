@@ -1,9 +1,17 @@
 #ifndef DICTIONARY_HPP
 #define DICTIONARY_HPP
 
-class Dictionary{
+#include <string>
+
+#include <filesystem>
+
+#include "DictionaryNode.hpp"
+
+class Dictionary : public DictionaryNode{
 public:
-  
+  Dictionary() = default;
+  Dictionary(std::filesystem::path const& filePath);
+
 private:
 };
 
