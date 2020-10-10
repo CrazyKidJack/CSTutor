@@ -4,17 +4,22 @@ using namespace std;
 
 //DictionaryNode::DictionaryNode() = default;
 
-DictionaryNode::DictionaryNode(string const &lemma, double const &freq = -1.0)
+DictionaryNode::DictionaryNode(string const &lemma, double const &freq)
 : lemma_(lemma), freq_(freq){}
 
-string const DictionaryNode::lemma(){
+string const DictionaryNode::lemma() const{
     return lemma_;
 }
 
-double const DictionaryNode::freq(){
+double const DictionaryNode::freq() const{
     return freq_;
 }
 
-DictionaryNode& DictionaryNode::operator[](char const key){
-    return transLst_.at(key);
+string DictionaryNode::to_string() const{
+  return "[" + lemma_ + ", " + std::to_string(freq_) + "]";
+}
+
+ostream &operator<<(ostream &os, DictionaryNode const &node){
+  os << node.to_string();
+  return os;
 }

@@ -982,7 +982,6 @@
 982 109.88 career
 983 109.87 trust
 984 109.81 useful
-985 109.71  
 986 109.44 sector
 987 109.42 technical
 988 109.35 e-mail
@@ -8114,7 +8113,6 @@
 8114 5.50 rogue
 8115 5.50 uri
 8116 5.50 mastery
-8117 5.50 º
 8118 5.50 secretly
 8119 5.50 compass
 8120 5.50 fond

@@ -5,6 +5,8 @@
 //INCLUDE FILES & NAMESPACES
 //////////////////////////////////////////////////////////////////////////////
 //types
+#include <iostream>
+
 #include <string>
 #include <memory> //smart pointers
 
@@ -14,31 +16,18 @@
 //////////////////////////////////////////////////////////////////////////////
 //CLASS DictionaryNode
 //////////////////////////////////////////////////////////////////////////////
-class DictionaryNode{
-public:
-  DictionaryNode() = default;
-  DictionaryNode(std::string const &lemma, double const &freq = -1.0);
-
-  std::string const lemma() const;
-  double const freq() const;
-  DictionaryNode& operator[](char const key) const;
-
-
-protected:
-  std::string lemma_;
-  double freq_;
-  std::map<char, DictionaryNode> transLst_;
-
-  friend class Dictionary;
-};
-
 class DictionaryNode : public std::map<char, DictionaryNode>{
 public:
   DictionaryNode() = default;
+  //DictionaryNode(DictionaryNode const &node);
   DictionaryNode(std::string const &lemma, double const &freq = -1.0);
+  //virtual ~DictionaryNode();
 
   std::string const lemma() const;
-  double const freq() const;  
+  double const freq() const;
+
+  std::string to_string() const;
+  friend std::ostream &operator<<(std::ostream &os, DictionaryNode const& node);
 
 protected:
   std::string lemma_;
@@ -46,5 +35,7 @@ protected:
 
   friend class Dictionary;
 };
+
+//std::string to_string(DictionaryNode& node);
 
 #endif
