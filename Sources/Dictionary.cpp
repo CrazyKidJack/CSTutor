@@ -2,6 +2,10 @@
 
 using namespace std;
 using filesystem::path;
+using DNshPtr = shared_ptr<DictionaryNode>;
+using DNwkPtr = weak_ptr<DictionaryNode>;
+using DNConstshPtr = shared_ptr<DictionaryNode const>;
+using DNConstwkPtr = weak_ptr<DictionaryNode const>;
 
 //Dictionary::Dictionary() = default;
 
@@ -34,29 +38,28 @@ Dictionary::Dictionary(path const& filePath){
   dictStrm.close();
 }
 
-string Dictionary::to_string() const{
+string to_string(Dictionary const& dict){
   stringstream rtnStream;
 
-  stack<DictionaryNode> prntStack;
-  cerr << "Here0.0.0" << endl;
-  DictionaryNode currNode = *this;
-  cerr << "Here0.0.1" << endl;
-  prntStack.push(currNode);
+  stack<DNConstshPtr> prntStack;
+
+  DNConstshPtr currNodePtr(DNConstshPtr{}, &dict);//non-controlling pointer
+  prntStack.push(currNodePtr);
 
   while(!prntStack.empty()){
-    currNode = prntStack.top();
+    currNodePtr = prntStack.top();
     prntStack.pop();
 
-    rtnStream << currNode << "-->";
+    rtnStream << *currNodePtr << "-->";
 
-    for(auto const& elem : currNode)
-      prntStack.push(elem.second);
+    for(auto const& [trans, node] : *currNodePtr)
+      prntStack.push(node);
   }
 
   return rtnStream.str();
 }
 
 ostream& operator<<(ostream& os, Dictionary const& dict){
-  os << dict.to_string();
+  os << to_string(dict);
   return os;
 }

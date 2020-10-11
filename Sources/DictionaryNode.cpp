@@ -15,11 +15,11 @@ double const DictionaryNode::freq() const{
     return freq_;
 }
 
-string DictionaryNode::to_string() const{
-  return "[" + lemma_ + ", " + std::to_string(freq_) + "]";
+string to_string(DictionaryNode const &node){
+  return "[" + node.lemma() + ", " + std::to_string(node.freq()) + "]";
 }
 
 ostream &operator<<(ostream &os, DictionaryNode const &node){
-  os << node.to_string();
+  os << to_string(node);
   return os;
 }

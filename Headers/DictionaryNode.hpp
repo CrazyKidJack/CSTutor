@@ -16,17 +16,16 @@
 //////////////////////////////////////////////////////////////////////////////
 //CLASS DictionaryNode
 //////////////////////////////////////////////////////////////////////////////
-class DictionaryNode : public std::map<char, DictionaryNode>{
+class DictionaryNode
+  : public std::map<char, std::shared_ptr<DictionaryNode>>{
 public:
   DictionaryNode() = default;
-  //DictionaryNode(DictionaryNode const &node);
   DictionaryNode(std::string const &lemma, double const &freq = -1.0);
-  //virtual ~DictionaryNode();
 
   std::string const lemma() const;
   double const freq() const;
 
-  std::string to_string() const;
+  //std::string to_string() const;
   friend std::ostream &operator<<(std::ostream &os, DictionaryNode const& node);
 
 protected:
@@ -36,6 +35,6 @@ protected:
   friend class Dictionary;
 };
 
-//std::string to_string(DictionaryNode& node);
+std::string to_string(DictionaryNode const& node);
 
 #endif
