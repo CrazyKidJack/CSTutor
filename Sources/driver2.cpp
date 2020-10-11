@@ -19,11 +19,12 @@ int main(){
     cerr << "File" << dictFilePath << " doesn't exist" << endl;
 
   Dictionary dict(dictFilePath);
-  /*
+  
   cerr << "Dictionary After:" << endl
        << "===========================================================" << endl
        << "===========================================================" << endl
        << dict << endl << endl;
+  /*
   string phrase = "hellogoodbyesir";
 
   map<int, pair<DictionaryNode*, vector<DictionaryNode*>>> wordTable;
