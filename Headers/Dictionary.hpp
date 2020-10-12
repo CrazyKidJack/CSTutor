@@ -1,5 +1,6 @@
 #ifndef DICTIONARY_HPP
 #define DICTIONARY_HPP
+
 #include <iostream>
 #include <fstream>
 #include <sstream>
@@ -20,13 +21,13 @@ public:
   Dictionary(std::filesystem::path const& filePath);
   //virtual ~Dictionary();
 
-  std::string to_string() const;
+  //std::string to_string() const;
   friend std::ostream& operator<<(std::ostream &stream, Dictionary const& dict);
 
 private:
   int size_;
 };
 
-//std::string to_string(Dictionary& dict);
+std::string to_string(Dictionary const& dict);
 
 #endif

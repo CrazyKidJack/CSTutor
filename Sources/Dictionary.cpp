@@ -2,6 +2,10 @@
 
 using namespace std;
 using filesystem::path;
+using DNshPtr = shared_ptr<DictionaryNode>;
+using DNwkPtr = weak_ptr<DictionaryNode>;
+using DNConstShPtr = shared_ptr<const DictionaryNode>;
+using DNConstwkPtr = weak_ptr<const DictionaryNode>;
 
 //Dictionary::Dictionary() = default;
 
@@ -34,12 +38,12 @@ Dictionary::Dictionary(path const& filePath){
   dictStrm.close();
 }
 
-string Dictionary::to_string() const{
+string to_string(Dictionary const& dict){
   stringstream rtnStream;
 
-  stack<DictionaryNode> prntStack;
+  stack<DNConstShPtr> prntStack;
   cerr << "Here0.0.0" << endl;
-  DictionaryNode currNode = *this;
+  DNConstShPtr currNode(DNConstShPtr{}, &dict);//non-owning pointer
   cerr << "Here0.0.1" << endl;
   prntStack.push(currNode);
 
@@ -49,14 +53,14 @@ string Dictionary::to_string() const{
 
     rtnStream << currNode << "-->";
 
-    for(auto const& elem : currNode)
-      prntStack.push(elem.second);
+    for(auto const& [key, node] : *currNode)
+      prntStack.push(node);
   }
 
   return rtnStream.str();
 }
 
 ostream& operator<<(ostream& os, Dictionary const& dict){
-  os << dict.to_string();
+  os << to_string(dict);
   return os;
 }
