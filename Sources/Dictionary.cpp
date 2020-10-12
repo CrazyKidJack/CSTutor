@@ -42,16 +42,16 @@ string to_string(Dictionary const& dict){
   stringstream rtnStream;
 
   stack<DNConstShPtr> prntStack;
-  DNConstShPtr currNode(DNConstShPtr{}, &dict);//non-owning pointer
-  prntStack.push(currNode);
+  DNConstShPtr currNodePtr(DNConstShPtr{}, &dict);//non-owning pointer
+  prntStack.push(currNodePtr);
 
   while(!prntStack.empty()){
-    currNode = prntStack.top();
+    currNodePtr = prntStack.top();
     prntStack.pop();
 
-    rtnStream << currNode << "-->";
+    rtnStream << currNodePtr << "-->";
 
-    for(auto const& [key, node] : *currNode)
+    for(auto const& [key, node] : *currNodePtr)
       prntStack.push(node);
   }
 
