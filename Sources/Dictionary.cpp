@@ -21,19 +21,23 @@ Dictionary::Dictionary(path const& filePath){
   ifstream dictStrm(filePath.string());
   double freq;
   string lemma;
-  DictionaryNode *currNode = this;
+  //DictionaryNode *currNodePtr = this;
+  DNshPtr currNodePtr(DNshPtr{}, this);//non-controlling pointer
   //cerr << "[]-->";
   while(dictStrm >> freq >> freq >> lemma){
     for (char const& ch : lemma){
-      currNode = &((*currNode)[ch]);
+      currNodePtr = (*currNodePtr)[ch];
+      if(currNodePtr == nullptr)
+        currNodePtr = make_shared<DictionaryNode>();
       ++size_;
       //cerr << "[" << ch << "]-->"
     }
       
-      
-    currNode->freq_ = freq;
-    currNode->lemma_ = lemma;
-    cerr << "[" << currNode->lemma_ << ", " << std::to_string(currNode->freq_) << "]-->";
+    
+    currNodePtr->freq_ = freq;
+    currNodePtr->lemma_ = lemma;
+    cerr << "[" << currNodePtr->lemma_ << ", "
+         << std::to_string(currNodePtr->freq_) << "]-->";
   }
   dictStrm.close();
 }
