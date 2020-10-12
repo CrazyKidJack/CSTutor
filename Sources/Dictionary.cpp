@@ -49,9 +49,9 @@ string to_string(Dictionary const& dict){
     currNodePtr = prntStack.top();
     prntStack.pop();
 
-    rtnStream << currNodePtr << "-->";
+    rtnStream << *currNodePtr << "-->";
 
-    for(auto const& [key, node] : *currNodePtr)
+    for(auto const& [trans, node] : *currNodePtr)
       prntStack.push(node);
   }
 
