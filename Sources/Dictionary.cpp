@@ -42,9 +42,7 @@ string to_string(Dictionary const& dict){
   stringstream rtnStream;
 
   stack<DNConstShPtr> prntStack;
-  cerr << "Here0.0.0" << endl;
   DNConstShPtr currNode(DNConstShPtr{}, &dict);//non-owning pointer
-  cerr << "Here0.0.1" << endl;
   prntStack.push(currNode);
 
   while(!prntStack.empty()){
