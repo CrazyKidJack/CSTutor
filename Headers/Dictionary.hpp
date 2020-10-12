@@ -6,6 +6,7 @@
 #include <sstream>
 
 #include <string>
+#include <memory>
 
 #include <vector>
 #include <stack>
@@ -17,9 +18,7 @@
 class Dictionary : public DictionaryNode{
 public:
   Dictionary() = default;
-  //Dictionary(Dictionary const &dict);
   Dictionary(std::filesystem::path const& filePath);
-  //virtual ~Dictionary();
 
   //std::string to_string() const;
   friend std::ostream& operator<<(std::ostream &stream, Dictionary const& dict);
