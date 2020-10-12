@@ -16,7 +16,7 @@
 //////////////////////////////////////////////////////////////////////////////
 //CLASS DictionaryNode
 //////////////////////////////////////////////////////////////////////////////
-class DictionaryNode : public std::map<char, shared_ptr<DictionaryNode>>{
+class DictionaryNode : public std::map<char, std::shared_ptr<DictionaryNode>>{
 public:
   DictionaryNode() = default;
   DictionaryNode(std::string const &lemma, double const &freq = -1.0);
