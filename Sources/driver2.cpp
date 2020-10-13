@@ -70,11 +70,10 @@ int main(){
   cout << "Are you sure you want to print the dictionary (y/n)? ";
   cin  >> response;
   response = tolower(response);
-
   if(response == 'y'){
-    cerr << "Dictionary: " << endl
-       << dict << endl
-       << endl;
+    cout << "Dictionary: " << endl
+         << dict << endl
+         << endl;
   }
 
   string phrase;
@@ -93,7 +92,6 @@ int main(){
   }};
 
   parsePhrase(phrase, wordTable);
-
   erase_if(wordTable, [](auto const &elem) {
     vector<DNshPtr> const &wordLst = elem.second.second;
     return wordLst.empty();
@@ -102,7 +100,6 @@ int main(){
   prntWordTable(wordTable);
 
   vector<vector<DNshPtr>> phraseLst(getPhrases(wordTable, 0));
-
   string maxPhrase;
   double maxFreq;
   findBestPhrase(phraseLst, maxPhrase, maxFreq);

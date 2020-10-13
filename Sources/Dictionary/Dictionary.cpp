@@ -26,7 +26,6 @@ Dictionary::Dictionary(path const& filePath){
   DNshPtr headNodePtr(DNshPtr{}, this);//non-controlling pointer
   DNshPtr currNodePtr(headNodePtr);//non-controlling pointer
   
-  //cerr << "[]-->";
   while(dictStrm >> freq >> freq >> lemma){
     string str;
     str.reserve(lemma.size());
