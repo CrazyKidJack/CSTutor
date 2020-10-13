@@ -19,11 +19,13 @@ public:
   Dictionary() = default;
   Dictionary(std::filesystem::path const& filePath);
 
+  int const getSize() const;
+
   //std::string to_string() const;
   friend std::ostream& operator<<(std::ostream &stream, Dictionary const& dict);
 
 private:
-  int size_;
+  int dictSize_;
 };
 
 std::string to_string(Dictionary const& dict);

@@ -10,7 +10,7 @@ using DNConstwkPtr = weak_ptr<DictionaryNode const>;
 //Dictionary::Dictionary() = default;
 
 Dictionary::Dictionary(path const& filePath){
-  size_ = 0;
+  dictSize_ = 0;
 
   if(!exists(filePath))  {
     cerr << "File " << filePath << " doesn't exist..." << endl
@@ -21,47 +21,53 @@ Dictionary::Dictionary(path const& filePath){
   ifstream dictStrm(filePath.string());
   double freq;
   string lemma;
-  //DictionaryNode *currNodePtr = this;
-  DNshPtr currNodePtr(DNshPtr{}, this);//non-controlling pointer
+  DNshPtr headNodePtr(DNshPtr{}, this);//non-controlling pointer
+  DNshPtr currNodePtr(headNodePtr);//non-controlling pointer
+  
   //cerr << "[]-->";
   while(dictStrm >> freq >> freq >> lemma){
+    string str;
+    str.reserve(lemma.size());
     for (char const& ch : lemma){
-      currNodePtr = (*currNodePtr)[ch];
-      if(currNodePtr == nullptr)
-        currNodePtr = make_shared<DictionaryNode>();
-      ++size_;
-      //cerr << "[" << ch << "]-->"
+      str += ch;
+      DNshPtr& newNodePtr = (*currNodePtr)[ch];
+      int i = 0;
+      if(newNodePtr == nullptr){
+        newNodePtr = make_shared<DictionaryNode>(str);
+        ++dictSize_;
+      }
+      currNodePtr = newNodePtr;
     }
-      
     
     currNodePtr->freq_ = freq;
     currNodePtr->lemma_ = lemma;
-    cerr << "[" << currNodePtr->lemma_ << ", "
-         << std::to_string(currNodePtr->freq_) << "]-->";
+    currNodePtr = headNodePtr;
   }
   dictStrm.close();
 }
 
+int const Dictionary::getSize() const { return dictSize_; }
+
 string to_string(Dictionary const& dict){
   stringstream rtnStream;
-
-  stack<DNConstshPtr> prntStack;
-
+  stack<pair<string, DNConstshPtr>> prntStack;
   DNConstshPtr currNodePtr(DNConstshPtr{}, &dict);//non-controlling pointer
-  prntStack.push(currNodePtr);
+  string depth = "";
+  prntStack.push({depth, currNodePtr});
 
   while(!prntStack.empty()){
-    currNodePtr = prntStack.top();
+    depth = prntStack.top().first;
+    currNodePtr = prntStack.top().second;
     prntStack.pop();
 
-    rtnStream << *currNodePtr << "-->";
+    rtnStream << depth << *currNodePtr << endl;
 
-    for(auto const& [trans, node] : *currNodePtr)
-      prntStack.push(node);
-  }
+    for(auto const [trans, node] : *currNodePtr)
+      prntStack.push({depth+"  ", node});
+  }//END LOOP WHILE ! stack.empty()
 
   return rtnStream.str();
-}
+}//end to_string(Dictionary const&)
 
 ostream& operator<<(ostream& os, Dictionary const& dict){
   os << to_string(dict);

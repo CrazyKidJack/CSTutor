@@ -20,9 +20,14 @@ class DictionaryNode
   : public std::map<char, std::shared_ptr<DictionaryNode>>{
 public:
   DictionaryNode() = default;
-  DictionaryNode(std::string const &lemma, double const &freq = -1.0);
+  DictionaryNode(//init constructor
+    std::string const& str,
+    std::string const &lemma = "",
+    double const &freq = -1.0
+  );
 
   std::string const lemma() const;
+  std::string const str() const;
   double const freq() const;
 
   //std::string to_string() const;
@@ -30,6 +35,7 @@ public:
 
 protected:
   std::string lemma_;
+  std::string str_;
   double freq_;
 
   friend class Dictionary;

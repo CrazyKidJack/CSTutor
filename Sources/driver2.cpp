@@ -19,8 +19,12 @@ int main(){
     cerr << "File" << dictFilePath << " doesn't exist" << endl;
 
   Dictionary dict(dictFilePath);
-  
-  cerr << "Dictionary After:" << endl
+
+  cerr << "Dictionary size: " << dict.getSize();
+  cerr << "Root size: " << ((DictionaryNode)dict).size();
+
+  cerr << endl
+       << "Dictionary After:" << endl
        << "===========================================================" << endl
        << "===========================================================" << endl
        << dict << endl << endl;
