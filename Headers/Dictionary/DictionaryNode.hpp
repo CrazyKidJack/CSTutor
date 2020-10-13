@@ -13,6 +13,15 @@
 //containers
 #include <map>
 
+namespace Dict { class DictionaryNode; }
+std::ostream& operator<<(std::ostream &os, Dict::DictionaryNode const& node);
+
+//////////////////////////////////////////////////////////////////////////////
+// NAMESPACE Dict
+//////////////////////////////////////////////////////////////////////////////
+namespace Dict{
+
+
 //////////////////////////////////////////////////////////////////////////////
 //CLASS DictionaryNode
 //////////////////////////////////////////////////////////////////////////////
@@ -31,7 +40,7 @@ public:
   double const freq() const;
 
   //std::string to_string() const;
-  friend std::ostream &operator<<(std::ostream &os, DictionaryNode const& node);
+  friend std::ostream& ::operator<<(std::ostream &os, DictionaryNode const& node);
 
 protected:
   std::string lemma_;
@@ -41,6 +50,12 @@ protected:
   friend class Dictionary;
 };
 
-std::string to_string(DictionaryNode const& node);
+
+}
+//////////////////////////////////////////////////////////////////////////////
+// END NAMESPACE Dict
+//////////////////////////////////////////////////////////////////////////////
+
+std::string to_string(Dict::DictionaryNode const& node);
 
 #endif

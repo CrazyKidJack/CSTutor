@@ -1,6 +1,7 @@
-#include "../Headers/DictionaryNode.hpp"
+#include "../../Headers/Dictionary/DictionaryNode.hpp"
 
 using namespace std;
+using namespace Dict;
 
 //DictionaryNode::DictionaryNode() = default;
 

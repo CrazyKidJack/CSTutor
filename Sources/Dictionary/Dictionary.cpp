@@ -1,11 +1,7 @@
-#include "../Headers/Dictionary.hpp"
+#include "../../Headers/Dictionary/Dictionary.hpp"
 
 using namespace std;
-using filesystem::path;
-using DNshPtr = shared_ptr<DictionaryNode>;
-using DNwkPtr = weak_ptr<DictionaryNode>;
-using DNConstshPtr = shared_ptr<DictionaryNode const>;
-using DNConstwkPtr = weak_ptr<DictionaryNode const>;
+using namespace Dict;
 
 //Dictionary::Dictionary() = default;
 
