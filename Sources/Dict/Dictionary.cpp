@@ -1,4 +1,4 @@
-#include "../Headers/Dictionary.hpp"
+#include "../Headers/Dict/Dictionary.hpp"
 
 using namespace std;
 using namespace Dict;
