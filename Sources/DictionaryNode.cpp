@@ -1,6 +1,7 @@
 #include "../Headers/DictionaryNode.hpp"
 
 using namespace std;
+using namespace Dict;
 
 //DictionaryNode::DictionaryNode() = default;
 
@@ -16,10 +17,13 @@ double const DictionaryNode::freq() const{
 }
 
 string to_string(DictionaryNode const& node){
-  return "[" + node.lemma() + ", " + std::to_string(node.freq()) + "]";
+  if (node.lemma().empty())
+    return "[]";
+  else
+    return "[" + node.lemma() + ", " + std::to_string(node.freq()) + "]";
 }
 
-ostream &operator<<(ostream &os, DictionaryNode const &node){
+ostream& operator<<(ostream &os, DictionaryNode const &node){
   os << to_string(node);
   return os;
 }

@@ -13,6 +13,22 @@
 //containers
 #include <map>
 
+namespace Dict{ class DictionaryNode; }
+std::ostream& operator<<(std::ostream &os, Dict::DictionaryNode const &node);
+
+
+//////////////////////////////////////////////////////////////////////////////
+// NAMESPACE Dict
+//////////////////////////////////////////////////////////////////////////////
+namespace Dict{
+
+
+  
+using DNshPtr = std::shared_ptr<DictionaryNode>;
+using DNwkPtr = std::weak_ptr<DictionaryNode>;
+using DNConstShPtr = std::shared_ptr<DictionaryNode const>;
+using DNConstWkPtr = std::weak_ptr<DictionaryNode const>;
+
 //////////////////////////////////////////////////////////////////////////////
 //CLASS DictionaryNode
 //////////////////////////////////////////////////////////////////////////////
@@ -25,15 +41,23 @@ public:
   double const freq() const;
 
   //std::string to_string() const;
-  friend std::ostream &operator<<(std::ostream &os, DictionaryNode const& node);
+  friend std::ostream & ::operator<<(std::ostream &os, DictionaryNode const &node);
 
 protected:
   std::string lemma_;
   double freq_;
 
   friend class Dictionary;
-};
+}; //end class DictionaryNode
 
-std::string to_string(DictionaryNode const& node);
+
+
+}
+//////////////////////////////////////////////////////////////////////////////
+// END NAMESPACE Dict
+//////////////////////////////////////////////////////////////////////////////
+
+
+std::string to_string(Dict::DictionaryNode const& node);
 
 #endif

@@ -9,6 +9,7 @@
 #include "../Headers/Dictionary.hpp"
 
 using namespace std;
+using namespace Dict;
 using filesystem::path;
 
 int main(){

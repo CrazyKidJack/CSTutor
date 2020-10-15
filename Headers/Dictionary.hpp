@@ -15,18 +15,38 @@
 
 #include "DictionaryNode.hpp"
 
+namespace Dict{ class Dictionary; }
+std::ostream & operator<<(std::ostream &stream, Dict::Dictionary const &dict);
+
+
+//////////////////////////////////////////////////////////////////////////////
+// NAMESPACE Dict
+//////////////////////////////////////////////////////////////////////////////
+namespace Dict{
+
+
+
+using std::filesystem::path;
+
 class Dictionary : public DictionaryNode{
 public:
   Dictionary() = default;
-  Dictionary(std::filesystem::path const& filePath);
+  Dictionary(path const &filePath);
 
   //std::string to_string() const;
-  friend std::ostream& operator<<(std::ostream &stream, Dictionary const& dict);
+  friend std::ostream & ::operator<<(std::ostream &stream, Dictionary const &dict);
 
 private:
   int size_;
 };
 
-std::string to_string(Dictionary const& dict);
+
+
+}
+//////////////////////////////////////////////////////////////////////////////
+// END NAMESPACE Dict
+//////////////////////////////////////////////////////////////////////////////
+
+std::string to_string(Dict::Dictionary const& dict);
 
 #endif
