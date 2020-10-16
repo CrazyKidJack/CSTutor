@@ -33,6 +33,8 @@ public:
   Dictionary() = default;
   Dictionary(path const &filePath);
 
+  int const getSize() const;
+
   //std::string to_string() const;
   friend std::ostream & ::operator<<(std::ostream &stream, Dictionary const &dict);
 

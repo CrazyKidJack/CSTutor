@@ -1,10 +1,18 @@
-#include "../Headers/Dict/Dictionary.hpp"
+//////////////////////////////////////////////////////////////////////////////
+// INCLUDE FILES & NAMESPACES
+//////////////////////////////////////////////////////////////////////////////
+#include "../../Headers/Dict/Dictionary.hpp"
 
 using namespace std;
 using namespace Dict;
 
+//////////////////////////////////////////////////////////////////////////////
+// CONSTRUCTORS
+//////////////////////////////////////////////////////////////////////////////
+//----------------------------------------------------------------------------
 //Dictionary::Dictionary() = default;
 
+//----------------------------------------------------------------------------
 Dictionary::Dictionary(path const& filePath){
   size_ = 0;
 
@@ -13,49 +21,70 @@ Dictionary::Dictionary(path const& filePath){
          << "Terminating..." << endl;
     exit(EXIT_FAILURE);
   }
-  
   ifstream dictStrm(filePath.string());
+  
   double freq;
   string lemma;
-  DNshPtr currNodePtr(DNshPtr{}, this);
-  //cerr << "[]-->";
+  DNshPtr const rootPtr(DNshPtr{}, this);
+  DNshPtr currNodePtr(rootPtr);
+  //LOOP THRU READ INPUT FILE
   while(dictStrm >> freq >> freq >> lemma){
+    //LOOP THRU LEMMA
     for (char const& ch : lemma){
-      currNodePtr = (*currNodePtr)[ch];
-      if (currNodePtr == nullptr){
-        currNodePtr = make_shared<DictionaryNode>();
+      //get next node
+      //or create new one
+      DNshPtr& newNodePtr = (*currNodePtr)[ch];
+      if (newNodePtr == nullptr){
+        //add new node
+        newNodePtr = make_shared<DictionaryNode>(currNodePtr->str()+ch);
+        ++size_;
       }
-      ++size_;
-      //cerr << "[" << ch << "]-->"
-    }
+      currNodePtr = newNodePtr; //traverse Dictionary
+    }//END LOOP THRU LEMMA
 
     currNodePtr->freq_ = freq;
     currNodePtr->lemma_ = lemma;
-    cerr << "[" << currNodePtr->lemma_ << ", " << std::to_string(currNodePtr->freq_) << "]-->";
-  }
+    currNodePtr = rootPtr;
+  }//END LOOP THRU READ INPUT FILE
+
   dictStrm.close();
+}//end init constructor
+
+//////////////////////////////////////////////////////////////////////////////
+// ACCESSORS
+//////////////////////////////////////////////////////////////////////////////
+//----------------------------------------------------------------------------
+int const Dictionary::getSize() const{
+  return size_;
 }
 
+//////////////////////////////////////////////////////////////////////////////
+// PRINTING
+//////////////////////////////////////////////////////////////////////////////
+//----------------------------------------------------------------------------
 string to_string(Dictionary const& dict){
   stringstream rtnStream;
 
-  stack<DNConstShPtr> prntStack;
+  stack<pair<string, DNConstShPtr>> prntStack;
   DNConstShPtr currNodePtr(DNConstShPtr{}, &dict);//non-owning pointer
-  prntStack.push(currNodePtr);
+  string depthPrefix = "";
+  prntStack.push({depthPrefix, currNodePtr});
 
   while(!prntStack.empty()){
-    currNodePtr = prntStack.top();
+    depthPrefix = prntStack.top().first;
+    currNodePtr = prntStack.top().second;
     prntStack.pop();
 
-    rtnStream << *currNodePtr << "-->";
+    rtnStream << depthPrefix << *currNodePtr << endl;
 
     for(auto const& [trans, node] : *currNodePtr)
-      prntStack.push(node);
+      prntStack.push({depthPrefix+"  ", node});
   }
 
   return rtnStream.str();
 }//end to_string(Dictionary)
 
+//----------------------------------------------------------------------------
 ostream& operator<<(ostream& os, Dictionary const& dict){
   os << to_string(dict);
   return os;

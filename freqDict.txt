@@ -88,7 +88,6 @@
 88 909.35 give
 89 907.72 way
 90 899.02 information
-91 898.85 Â
 92 892.33 she
 93 890.67 well
 94 879.81 think
@@ -100,7 +99,6 @@
 100 861.76 then
 101 848.70 because
 102 846.55 us
-103 840.33 |
 104 833.67 very
 105 833.05 come
 106 813.88 after
@@ -116,7 +114,6 @@
 116 719.09 through
 117 715.23 world
 118 712.87 look
-119 699.78 $
 120 688.27 service
 121 682.57 post
 122 680.60 much
@@ -183,7 +180,6 @@
 183 464.84 try
 184 464.01 another
 185 463.88 research
-186 458.49 æ
 187 456.96 however
 188 456.65 during
 189 454.44 ask
@@ -429,7 +425,6 @@
 429 241.47 side
 430 241.00 paper
 431 240.77 training
-432 240.74 ç
 433 239.41 political
 434 239.31 sure
 435 239.08 apply
@@ -513,7 +508,6 @@
 513 205.39 trade
 514 205.35 common
 515 204.77 author
-516 203.96 â
 517 203.70 bill
 518 203.14 sign
 519 202.01 june
@@ -765,7 +759,6 @@
 765 146.06 store
 766 146.03 notice
 767 145.55 officer
-768 145.23 ã
 769 145.07 half
 770 144.27 kill
 771 144.14 commission
@@ -825,10 +818,8 @@
 825 133.54 grant
 826 133.42 communication
 827 133.26 hospital
-828 133.26 b
 829 133.02 piece
 830 132.96 six
-831 132.88 ¥
 832 132.80 copyright
 833 132.49 chapter
 834 132.36 foot
@@ -895,7 +886,6 @@
 895 122.40 institution
 896 122.20 client
 897 121.65 august
-898 121.50 x
 899 121.32 enjoy
 900 121.03 writ
 901 120.80 army
@@ -922,8 +912,6 @@
 922 118.16 himself
 923 118.00 influence
 924 117.91 throughout
-925 117.89 c
-926 117.72 Â
 927 117.62 voice
 928 117.56 generally
 929 117.47 father
@@ -984,7 +972,6 @@
 984 109.81 useful
 986 109.44 sector
 987 109.42 technical
-988 109.35 e-mail
 989 109.30 train
 990 109.17 responsible
 991 108.99 fine
@@ -1032,7 +1019,6 @@
 1033 102.31 commercial
 1034 102.26 regulation
 1035 102.20 relation
-1036 102.15 
 1037 102.04 fill
 1038 101.87 ten
 1039 101.87 certainly
@@ -1151,7 +1137,6 @@
 1152 92.13 trial
 1153 92.00 context
 1154 91.68 season
-1155 91.53 
 1156 91.37 except
 1157 91.36 duty
 1158 90.93 format
@@ -1196,9 +1181,7 @@
 1197 87.71 editor
 1198 87.65 locate
 1199 87.61 cross
-1200 87.37 ¡
 1201 87.37 england
-1202 87.33 s
 1203 87.33 pain
 1204 87.29 immediately
 1205 87.27 river
@@ -1228,7 +1211,6 @@
 1229 85.29 learning
 1230 85.22 master
 1231 85.19 correct
-1232 85.17 ½
 1233 84.85 cultural
 1234 84.85 replace
 1235 84.80 publication
@@ -1238,7 +1220,6 @@
 1239 84.69 instance
 1240 84.60 crime
 1241 84.54 writer
-1242 84.37 ´
 1243 84.32 database
 1244 84.29 score
 1245 84.16 microsoft
@@ -1303,7 +1284,6 @@
 1304 79.66 shop
 1305 79.54 examine
 1306 79.53 oh
-1307 79.50 ¹
 1308 79.47 representative
 1309 79.44 waste
 1310 79.44 actual
@@ -1324,7 +1304,6 @@
 1325 77.82 industrial
 1326 77.76 strength
 1327 77.66 forget
-1328 77.65 
 1329 77.63 pull
 1330 77.60 decade
 1331 77.54 importance
@@ -1336,10 +1315,8 @@
 1337 76.95 approve
 1338 76.93 suffer
 1339 76.91 trip
-1340 76.66 ¯
 1341 76.63 equal
 1342 76.62 extra
-1343 76.57 
 1344 76.55 licence
 1345 76.46 perspective
 1346 76.37 shape
@@ -1372,7 +1349,6 @@
 1373 74.47 possibility
 1374 74.46 loan
 1375 74.36 seven
-1376 74.34 
 1377 74.32 audience
 1378 74.32 intelligence
 1379 74.20 funding
@@ -1406,7 +1382,6 @@
 1407 72.25 best
 1408 72.21 secret
 1409 72.15 monday
-1410 72.07 #
 1411 71.98 engineering
 1412 71.77 bed
 1413 71.74 india
@@ -1426,10 +1401,8 @@
 1427 70.74 birth
 1428 70.70 france
 1429 70.56 guideline
-1430 70.47 ä
 1431 70.39 finance
 1432 70.32 profit
-1433 70.17 
 1434 70.14 jesus
 1435 69.95 surprise
 1436 69.87 soldier
@@ -1448,7 +1421,6 @@
 1449 69.16 struggle
 1450 69.12 resolution
 1451 68.77 negative
-1452 68.74 d
 1453 68.69 fish
 1454 68.50 fix
 1455 68.49 assist
@@ -1457,7 +1429,6 @@
 1458 68.28 eventually
 1459 68.21 label
 1460 68.15 brother
-1461 68.12 ÃÂ
 1462 68.10 dark
 1463 68.01 gun
 1464 67.78 hall
@@ -1482,7 +1453,6 @@
 1483 66.99 cash
 1484 66.97 shift
 1485 66.81 mental
-1486 66.61 e
 1487 66.56 japan
 1488 66.44 channel
 1489 66.40 manner
@@ -1499,13 +1469,11 @@
 1500 65.94 double
 1501 65.93 heat
 1502 65.93 criminal
-1503 65.92 µ
 1504 65.90 length
 1505 65.82 seat
 1506 65.81 install
 1507 65.76 difficulty
 1508 65.52 imagine
-1509 65.51 }
 1510 65.42 decline
 1511 65.39 injury
 1512 65.30 prime
@@ -1556,7 +1524,6 @@
 1557 63.06 estate
 1558 63.03 priority
 1559 63.03 forest
-1560 62.93 ©
 1561 62.52 la
 1562 62.50 presence
 1563 62.44 proper
@@ -1594,10 +1561,8 @@
 1595 60.13 root
 1596 60.04 diet
 1597 60.04 membership
-1598 60.01 ®
 1599 59.95 trouble
 1600 59.91 brief
-1601 59.88 n
 1602 59.88 weather
 1603 59.81 neither
 1604 59.79 scotland
@@ -1609,7 +1574,6 @@
 1610 59.40 creative
 1611 59.40 thomas
 1612 59.38 long-term
-1613 59.38 {
 1614 59.34 hill
 1615 59.32 victim
 1616 59.31 classroom
@@ -1630,7 +1594,6 @@
 1631 58.56 consist
 1632 58.48 reduction
 1633 58.48 earlier
-1634 58.44 °
 1635 58.35 asset
 1636 58.35 signal
 1637 58.31 constitution
@@ -1641,8 +1604,6 @@
 1642 58.13 southern
 1643 58.13 mistake
 1644 58.13 camp
-1645 58.12 m
-1646 58.01 q
 1647 57.96 testing
 1648 57.94 tea
 1649 57.92 obvious
@@ -1698,7 +1659,6 @@
 1699 55.75 lawyer
 1700 55.75 forced
 1701 55.72 tradition
-1702 55.70 
 1703 55.65 cycle
 1704 55.64 debt
 1705 55.53 israel
@@ -1708,17 +1668,14 @@
 1709 55.32 assess
 1710 55.28 column
 1711 55.27 dry
-1712 55.19 t
 1713 55.18 conversation
 1714 55.10 permission
 1715 55.08 approximately
 1716 55.06 pp
-1717 55.04 ²
 1718 55.02 arrangement
 1719 54.89 frequently
 1720 54.86 capability
 1721 54.80 enhance
-1722 54.78 ¤
 1723 54.77 comprehensive
 1724 54.77 fundamental
 1725 54.76 japanese
@@ -1732,7 +1689,6 @@
 1733 54.28 attorney
 1734 54.24 ride
 1735 54.20 living
-1736 54.17 
 1737 54.07 indian
 1738 54.00 mountain
 1739 53.96 previously
@@ -1777,7 +1733,6 @@
 1778 52.50 interaction
 1779 52.38 philosophy
 1780 52.38 partnership
-1781 52.28 ±
 1782 52.27 capture
 1783 52.25 feedback
 1784 52.04 republican
@@ -1788,7 +1743,6 @@
 1789 51.82 scottish
 1790 51.75 eliminate
 1791 51.67 centre
-1792 51.64 o
 1793 51.62 campus
 1794 51.61 variable
 1795 51.53 extension
@@ -1815,12 +1769,10 @@
 1816 50.61 mine
 1817 50.59 specify
 1818 50.56 engineer
-1819 50.50 p
 1820 50.47 jan
 1821 50.44 warm
 1822 50.42 cheap
 1823 50.40 interface
-1824 50.31 ³
 1825 50.30 americans
 1826 50.30 media
 1827 50.28 rely
@@ -1845,7 +1797,6 @@
 1846 49.79 bond
 1847 49.78 essay
 1848 49.71 contrast
-1849 49.70 ¼
 1850 49.68 increasedly
 1851 49.64 slightly
 1852 49.63 marry
@@ -1857,9 +1808,7 @@
 1858 49.44 instrument
 1859 49.43 hang
 1860 49.33 guest
-1861 49.29 
 1862 49.28 entirely
-1863 49.23 r
 1864 49.19 spiritual
 1865 49.13 survive
 1866 49.13 permanent
@@ -1897,7 +1846,7 @@
 1898 48.05 sufficient
 1899 48.02 bridge
 1900 47.97 communicate
-1901 47.95 itÂs
+1901 47.95 it's
 1902 47.95 ring
 1903 47.90 apple
 1904 47.86 tape
@@ -1946,7 +1895,6 @@
 1947 46.65 dress
 1948 46.63 absolutely
 1949 46.63 ed
-1950 46.51 –
 1951 46.48 opposition
 1952 46.47 actor
 1953 46.44 blow
@@ -1957,7 +1905,6 @@
 1958 46.30 increased
 1959 46.29 sister
 1960 46.29 suspect
-1961 46.29 
 1962 46.28 sorry
 1963 46.28 familiar
 1964 46.24 studio
@@ -1986,11 +1933,9 @@
 1987 45.77 enforcement
 1988 45.76 string
 1989 45.74 revolution
-1990 45.73 j
 1991 45.70 prison
 1992 45.67 consistent
 1993 45.63 carefully
-1994 45.63 ¢
 1995 45.60 murder
 1996 45.56 un
 1997 45.55 jim
@@ -2025,7 +1970,6 @@
 2026 44.54 expectation
 2027 44.54 dialogue
 2028 44.50 data
-2029 44.48 Â©
 2030 44.41 bus
 2031 44.40 trackback
 2032 44.39 attach
@@ -2078,10 +2022,8 @@
 2079 42.97 manual
 2080 42.97 attract
 2081 42.94 investor
-2082 42.92 ¬
 2083 42.90 convince
 2084 42.89 negotiation
-2085 42.88 f
 2086 42.83 monthly
 2087 42.80 photograph
 2088 42.78 hide
@@ -2090,7 +2032,6 @@
 2091 42.70 pool
 2092 42.70 emphasis
 2093 42.66 jack
-2094 42.65 ¨
 2095 42.65 accurate
 2096 42.62 biological
 2097 42.61 dimension
@@ -2131,7 +2072,6 @@
 2132 41.68 satisfy
 2133 41.68 nine
 2134 41.63 disaster
-2135 41.63 v
 2136 41.62 hurt
 2137 41.62 efficiency
 2138 41.62 compete
@@ -2200,7 +2140,6 @@
 2201 40.18 republic
 2202 40.17 twice
 2203 40.16 editorial
-2204 40.16 Â
 2205 40.12 universal
 2206 40.03 constant
 2207 39.98 episode
@@ -2220,7 +2159,7 @@
 2221 39.65 academy
 2222 39.65 spending
 2223 39.64 afternoon
-2224 39.60 donÂt
+2224 39.60 don't
 2225 39.56 reward
 2226 39.54 virginia
 2227 39.53 illegal
@@ -2245,7 +2184,6 @@
 2246 39.18 conservation
 2247 39.13 wales
 2248 39.13 restriction
-2249 39.12 
 2250 39.06 wealth
 2251 39.02 settlement
 2252 39.00 capable
@@ -2323,7 +2261,6 @@
 2324 36.98 statistic
 2325 36.98 mexico
 2326 36.97 unlike
-2327 36.96 g
 2328 36.91 governor
 2329 36.90 elsewhere
 2330 36.88 notion
@@ -2400,7 +2337,6 @@
 2401 35.55 adjust
 2402 35.49 seminar
 2403 35.48 restore
-2404 35.48 —
 2405 35.48 prospect
 2406 35.48 retirement
 2407 35.46 row
@@ -2444,7 +2380,6 @@
 2445 34.81 jun
 2446 34.80 eligible
 2447 34.79 peak
-2448 34.78 å
 2449 34.78 busy
 2450 34.78 archives
 2451 34.75 wine
@@ -2453,7 +2388,6 @@
 2454 34.69 mortgage
 2455 34.68 landscape
 2456 34.67 retail
-2457 34.67 ¸
 2458 34.67 rain
 2459 34.63 truck
 2460 34.61 dependent
@@ -2481,13 +2415,10 @@
 2482 34.25 phenomenon
 2483 34.25 barrier
 2484 34.24 electric
-2485 34.18 
-2486 34.12 h
 2487 34.10 careful
 2488 34.08 steal
 2489 33.99 designate
 2490 33.98 joe
-2491 33.96 u
 2492 33.96 joseph
 2493 33.95 charity
 2494 33.94 criticism
@@ -2501,7 +2432,6 @@
 2502 33.86 transform
 2503 33.86 massive
 2504 33.80 intention
-2505 33.76 
 2506 33.73 listing
 2507 33.68 offence
 2508 33.68 involvement
@@ -2552,7 +2482,6 @@
 2553 33.00 hence
 2554 32.97 prisoner
 2555 32.96 noise
-2556 32.95 w
 2557 32.95 shipping
 2558 32.90 interactive
 2559 32.90 dc
@@ -2621,7 +2550,6 @@
 2622 31.86 alert
 2623 31.86 virtually
 2624 31.86 expertise
-2625 31.85 
 2626 31.83 politician
 2627 31.83 vol
 2628 31.83 discrimination
@@ -2641,9 +2569,7 @@
 2642 31.56 adapt
 2643 31.56 greatly
 2644 31.45 restrict
-2645 31.38 y
 2646 31.36 hardly
-2647 31.35 •
 2648 31.34 empty
 2649 31.33 wing
 2650 31.29 effectiveness
@@ -2676,7 +2602,6 @@
 2677 30.85 pace
 2678 30.75 rose
 2679 30.75 sweet
-2680 30.74 l
 2681 30.72 queen
 2682 30.71 oct
 2683 30.67 inspire
@@ -2684,7 +2609,6 @@
 2685 30.64 formation
 2686 30.64 pregnancy
 2687 30.62 asian
-2688 30.62 ­
 2689 30.59 plate
 2690 30.59 plain
 2691 30.57 shoulder
@@ -2709,7 +2633,6 @@
 2710 30.35 highway
 2711 30.34 atmosphere
 2712 30.32 submission
-2713 30.31 
 2714 30.29 utilize
 2715 30.28 alter
 2716 30.27 emission
@@ -2756,7 +2679,6 @@
 2757 29.78 heritage
 2758 29.75 mirror
 2759 29.74 joy
-2760 29.70 
 2761 29.67 vietnam
 2762 29.66 kingbolt
 2763 29.60 immigrant
@@ -2769,7 +2691,6 @@
 2770 29.43 yellow
 2771 29.43 outstanding
 2772 29.41 adventure
-2773 29.36 Â
 2774 29.35 productivity
 2775 29.35 howard
 2776 29.34 trace
@@ -2808,7 +2729,6 @@
 2809 28.82 nevertheless
 2810 28.81 monitoring
 2811 28.81 historic
-2812 28.79 k
 2813 28.78 scholarship
 2814 28.77 immigration
 2815 28.77 hat
@@ -2928,7 +2848,6 @@
 2929 27.24 fixed
 2930 27.20 password
 2931 27.20 determination
-2932 27.18 ~
 2933 27.16 url
 2934 27.12 distinction
 2935 27.09 exit
@@ -2966,9 +2885,7 @@
 2967 26.69 hiv
 2968 26.68 deadline
 2969 26.66 intelligent
-2970 26.65 £
 2971 26.65 giant
-2972 26.62 ¾
 2973 26.60 toy
 2974 26.60 blogs
 2975 26.59 tale
@@ -3022,7 +2939,6 @@
 3023 25.92 angle
 3024 25.92 sacrifice
 3025 25.91 islamic
-3026 25.90 
 3027 25.89 forever
 3028 25.88 relax
 3029 25.87 completion
@@ -3402,7 +3318,6 @@
 3403 21.70 atlantic
 3404 21.67 syndrome
 3405 21.67 fuck
-3406 21.65 à
 3407 21.65 roof
 3408 21.64 paperback
 3409 21.64 pour
@@ -3482,7 +3397,6 @@
 3483 20.95 federation
 3484 20.93 smell
 3485 20.93 bruce
-3486 20.92 Â
 3487 20.92 grain
 3488 20.91 tackle
 3489 20.91 pst
@@ -3510,11 +3424,10 @@
 3511 20.69 sophisticated
 3512 20.69 pregnant
 3513 20.68 hollywood
-3514 20.68 it’s
+3514 20.68 it's
 3515 20.68 publicly
 3516 20.65 experienced
 3517 20.62 genuine
-3518 20.61 
 3519 20.60 1990s
 3520 20.59 drinking
 3521 20.58 undergo
@@ -3634,7 +3547,7 @@
 3635 19.39 fool
 3636 19.37 elderly
 3637 19.37 realistic
-3638 19.36 iÂm
+3638 19.36 i'm
 3639 19.31 marshall
 3640 19.30 arizona
 3641 19.30 jail
@@ -3664,7 +3577,6 @@
 3665 19.01 epa
 3666 19.00 minimal
 3667 18.96 advertisement
-3668 18.95 ¦
 3669 18.94 artificial
 3670 18.93 fighter
 3671 18.93 ken
@@ -3859,7 +3771,6 @@
 3860 17.56 downtown
 3861 17.56 socialist
 3862 17.55 deck
-3863 17.55 ¶
 3864 17.55 screening
 3865 17.54 deployment
 3866 17.53 beneficial
@@ -3928,7 +3839,7 @@
 3929 17.06 barely
 3930 17.06 timely
 3931 17.05 collaborative
-3932 17.05 thatÂs
+3932 17.05 that's
 3933 17.04 robot
 3934 17.03 creek
 3935 17.03 underground
@@ -4002,7 +3913,7 @@
 4003 16.55 shame
 4004 16.55 fellowship
 4005 16.55 documentary
-4006 16.55 don’t
+4006 16.55 don't
 4007 16.55 pad
 4008 16.54 parliamentary
 4009 16.52 allocation
@@ -4177,7 +4088,7 @@
 4178 15.50 convict
 4179 15.49 steven
 4180 15.49 ambassador
-4181 15.48 didnÂt
+4181 15.48 didn't
 4182 15.48 dated
 4183 15.48 prevail
 4184 15.47 dont
@@ -4224,7 +4135,7 @@
 4225 15.24 associated
 4226 15.23 comparable
 4227 15.23 beef
-4228 15.23 its
+4228 15.23 it's
 4229 15.22 nonetheless
 4230 15.22 spite
 4231 15.21 singapore
@@ -4246,7 +4157,6 @@
 4247 15.15 retreat
 4248 15.15 kelly
 4249 15.14 spotlight
-4250 15.13 #1
 4251 15.13 philosopher
 4252 15.13 screw
 4253 15.12 doc
@@ -4330,7 +4240,6 @@
 4331 14.75 darkness
 4332 14.75 amazon
 4333 14.73 critique
-4334 14.72 
 4335 14.72 bow
 4336 14.70 piano
 4337 14.70 chronicle
@@ -4585,7 +4494,7 @@
 4586 13.56 certify
 4587 13.55 jordan
 4588 13.55 partially
-4589 13.55 dont
+4589 13.55 don't
 4590 13.55 continually
 4591 13.54 altogether
 4592 13.54 nomination
@@ -4702,7 +4611,7 @@
 4703 13.11 orbit
 4704 13.10 soccer
 4705 13.10 builder
-4706 13.09 youÂre
+4706 13.09 you're
 4707 13.09 accessory
 4708 13.09 disappoint
 4709 13.09 precious
@@ -4899,7 +4808,7 @@
 4900 12.34 questionnaire
 4901 12.34 lesbian
 4902 12.34 beta
-4903 12.34 canÂt
+4903 12.34 can't
 4904 12.34 forgive
 4905 12.33 shipment
 4906 12.33 cord
@@ -4924,7 +4833,6 @@
 4925 12.26 feminist
 4926 12.26 imperial
 4927 12.25 genius
-4928 12.25 _
 4929 12.25 viewpoint
 4930 12.25 brochure
 4931 12.24 developmental
@@ -4941,7 +4849,6 @@
 4942 12.18 fancy
 4943 12.18 optimal
 4944 12.18 complicate
-4945 12.18 z
 4946 12.18 patience
 4947 12.18 symposium
 4948 12.16 secondly
@@ -4985,7 +4892,6 @@
 4986 12.03 blade
 4987 12.02 mi
 4988 12.02 follower
-4989 12.01 t-shirt
 4990 12.01 obscure
 4991 12.00 subsection
 4992 12.00 brick
@@ -5020,7 +4926,7 @@
 5021 11.90 artwork
 5022 11.90 billing
 5023 11.90 aeroplane
-5024 11.90 doesnÂt
+5024 11.90 doesn't
 5025 11.88 cafe
 5026 11.88 cnn
 5027 11.88 beside
@@ -5129,7 +5035,6 @@
 5130 11.42 vi
 5131 11.42 envelope
 5132 11.42 gesture
-5133 11.42 
 5134 11.42 therapeutic
 5135 11.41 greet
 5136 11.41 admire
@@ -5429,7 +5334,6 @@
 5430 10.60 wetland
 5431 10.60 satisfactory
 5432 10.60 whatsoever
-5433 10.60 #2
 5434 10.59 speaking
 5435 10.59 mysterious
 5436 10.59 norway
@@ -5454,7 +5358,7 @@
 5455 10.53 roy
 5456 10.53 wars
 5457 10.51 llc
-5458 10.51 i’m
+5458 10.51 i'm
 5459 10.51 dependence
 5460 10.50 singh
 5461 10.50 playing
@@ -5605,7 +5509,6 @@
 5606 10.10 buffer
 5607 10.10 tenure
 5608 10.09 rationale
-5609 10.08 x-ray
 5610 10.08 repository
 5611 10.08 luke
 5612 10.07 ukraine
@@ -5689,7 +5592,6 @@
 5690 9.85 pointer
 5691 9.85 emergence
 5692 9.84 problems
-5693 9.84 ||
 5694 9.84 michelle
 5695 9.84 jeffrey
 5696 9.83 referendum
@@ -5714,7 +5616,6 @@
 5715 9.78 militia
 5716 9.78 dinosaur
 5717 9.77 slaughter
-5718 9.77 e-commerce
 5719 9.76 ridiculous
 5720 9.76 municipality
 5721 9.75 unclear
@@ -5768,7 +5669,7 @@
 5769 9.63 nicely
 5770 9.63 kenneth
 5771 9.63 gifted
-5772 9.63 iÂve
+5772 9.63 i've
 5773 9.62 dioxide
 5774 9.62 metro
 5775 9.62 formulation
@@ -5890,7 +5791,7 @@
 5891 9.33 seldom
 5892 9.33 rogers
 5893 9.32 jam
-5894 9.32 thereÂs
+5894 9.32 there's
 5895 9.32 inmate
 5896 9.32 pepper
 5897 9.31 acrobat
@@ -6273,7 +6174,7 @@
 6274 8.41 pedestrian
 6275 8.40 rigid
 6276 8.40 migrant
-6277 8.39 weÂre
+6277 8.39 we're
 6278 8.39 enlarge
 6279 8.39 ec
 6280 8.38 precaution
@@ -6446,7 +6347,6 @@
 6447 8.03 costa
 6448 8.03 jeremy
 6449 8.02 cargo
-6450 8.02 ©
 6451 8.02 collar
 6452 8.02 finland
 6453 8.02 outrage
@@ -6559,7 +6459,7 @@
 6560 7.77 strap
 6561 7.76 used
 6562 7.76 delaware
-6563 7.76 that’s
+6563 7.76 that's
 6564 7.76 pillar
 6565 7.76 communism
 6566 7.75 confession
@@ -6581,7 +6481,7 @@
 6582 7.73 broadway
 6583 7.73 maternity
 6584 7.72 tightly
-6585 7.72 heÂs
+6585 7.72 he's
 6586 7.72 cc
 6587 7.72 cliff
 6588 7.72 expressly
@@ -6753,7 +6653,7 @@
 6754 7.42 cement
 6755 7.41 reid
 6756 7.41 cole
-6757 7.41 isnÂt
+6757 7.41 isn't
 6758 7.41 underneath
 6759 7.41 sunlight
 6760 7.41 earl
@@ -6838,7 +6738,6 @@
 6839 7.27 haunt
 6840 7.27 germans
 6841 7.26 ammunition
-6842 7.26 Â®
 6843 7.26 positioning
 6844 7.26 nationality
 6845 7.26 reconcile
@@ -6884,7 +6783,6 @@
 6885 7.18 workstation
 6886 7.18 overly
 6887 7.18 sticker
-6888 7.18 ^
 6889 7.17 harvey
 6890 7.17 questionable
 6891 7.17 inflict
@@ -7008,7 +6906,6 @@
 7009 6.98 boycott
 7010 6.98 peterson
 7011 6.97 plausible
-7012 6.97 e-mails
 7013 6.97 elevator
 7014 6.97 sincere
 7015 6.97 mat
@@ -7046,7 +6943,7 @@
 7047 6.93 firstly
 7048 6.92 kuwait
 7049 6.92 autism
-7050 6.92 theyÂre
+7050 6.92 they're
 7051 6.92 investigative
 7052 6.92 lending
 7053 6.91 scanner
@@ -7310,7 +7207,6 @@
 7311 6.52 viii
 7312 6.52 stark
 7313 6.52 scoop
-7314 6.51 Ã
 7315 6.51 residue
 7316 6.51 optimum
 7317 6.51 hostage
@@ -7415,7 +7311,7 @@
 7416 6.37 eighteen
 7417 6.37 ion
 7418 6.37 pulmonary
-7419 6.37 youÂll
+7419 6.37 you'll
 7420 6.37 endeavour
 7421 6.37 alzheimer
 7422 6.37 bucket
@@ -7438,7 +7334,7 @@
 7439 6.35 finite
 7440 6.35 intuition
 7441 6.34 veterinarian
-7442 6.34 wasnÂt
+7442 6.34 wasn't
 7443 6.34 rev
 7444 6.33 saturate
 7445 6.33 idle
@@ -7460,7 +7356,6 @@
 7461 6.32 que
 7462 6.31 marines
 7463 6.31 therein
-7464 6.31 #3
 7465 6.31 councillor
 7466 6.30 durable
 7467 6.30 awaken
@@ -7566,7 +7461,6 @@
 7567 6.18 experimentation
 7568 6.18 dude
 7569 6.18 voluntarily
-7570 6.18 Â
 7571 6.18 anthropology
 7572 6.18 awkward
 7573 6.18 celebrated
@@ -7748,7 +7642,7 @@
 7749 5.93 veto
 7750 5.93 chromosome
 7751 5.93 parasite
-7752 5.93 thats
+7752 5.93 that's
 7753 5.92 mountains
 7754 5.92 rainfall
 7755 5.92 pt
@@ -7952,7 +7846,7 @@
 7953 5.70 dread
 7954 5.70 discrete
 7955 5.70 versa
-7956 5.70 can’t
+7956 5.70 can't
 7957 5.70 anthrax
 7958 5.69 reversal
 7959 5.69 professionally
@@ -7979,14 +7873,14 @@
 7980 5.67 outlaw
 7981 5.67 mask
 7982 5.67 burke
-7983 5.67 didn’t
+7983 5.67 didn't
 7984 5.67 macdonald
 7985 5.67 deceased
 7986 5.67 insightful
 7987 5.67 alphabet
 7988 5.66 erase
 7989 5.66 deduct
-7990 5.66 wonÂt
+7990 5.66 won't
 7991 5.66 irrational
 7992 5.66 muscular
 7993 5.66 nathan
@@ -8025,7 +7919,6 @@
 8026 5.63 respected
 8027 5.62 fetus
 8028 5.62 airlines
-8029 5.62 
 8030 5.62 awhile
 8031 5.62 scot
 8032 5.62 orlando
@@ -8071,8 +7964,7 @@
 8072 5.56 naive
 8073 5.56 tout
 8074 5.56 observatory
-8075 5.56 
-8076 5.56 im
+8076 5.56 i'm
 8077 5.56 si
 8078 5.56 misconception
 8079 5.56 persuasive
@@ -8172,7 +8064,7 @@
 8174 5.44 blink
 8175 5.44 ethnicity
 8176 5.44 rico
-8177 5.44 womenÂs
+8177 5.44 women's
 8178 5.44 rehearsal
 8179 5.44 anti-war
 8180 5.44 cling
@@ -8200,7 +8092,7 @@
 8202 5.42 promoter
 8203 5.41 issuance
 8204 5.41 rwanda
-8205 5.41 whatÂs
+8205 5.41 what's
 8206 5.41 colon
 8207 5.41 prepared
 8208 5.41 clot
@@ -8229,7 +8121,7 @@
 8231 5.40 swarm
 8232 5.39 planetary
 8233 5.39 ninety
-8234 5.39 i’ve
+8234 5.39 i've
 8235 5.39 revisit
 8236 5.39 blindness
 8237 5.39 behold
@@ -8270,11 +8162,11 @@
 8272 5.35 carnival
 8273 5.34 nm
 8274 5.34 repression
-8275 5.34 doesn’t
+8275 5.34 doesn't
 8276 5.34 huh
 8277 5.34 shanghai
 8278 5.34 grants
-8279 5.34 weÂve
+8279 5.34 we've
 8280 5.34 regulatory
 8281 5.34 enterprises
 8282 5.34 insecurity
@@ -8300,7 +8192,7 @@
 8302 5.32 swan
 8303 5.31 murderer
 8304 5.31 curtis
-8305 5.31 youÂve
+8305 5.31 you've
 8306 5.31 illegally
 8307 5.31 implied
 8308 5.31 chore
@@ -8327,7 +8219,7 @@
 8329 5.29 newsweek
 8330 5.29 yeast
 8331 5.28 db
-8332 5.28 didnt
+8332 5.28 didn't
 8333 5.28 tweak
 8334 5.28 geometric
 8335 5.28 strawberry
@@ -8396,7 +8288,7 @@
 8398 5.20 hamper
 8399 5.20 estimation
 8400 5.20 hans
-8401 5.19 couldnÂt
+8401 5.19 couldn't
 8402 5.19 mansion
 8403 5.19 mediator
 8404 5.19 noah
@@ -8409,7 +8301,6 @@
 8411 5.19 wrestle
 8412 5.18 discontinue
 8413 5.18 upside
-8414 5.18 --this
 8415 5.18 contradictory
 8416 5.18 jihad
 8417 5.18 coke
@@ -8454,7 +8345,7 @@
 8456 5.14 hog
 8457 5.14 perpetuate
 8458 5.14 sp
-8459 5.14 worldÂs
+8459 5.14 world's
 8460 5.14 katherine
 8461 5.14 arabs
 8462 5.14 jamaica
@@ -8481,7 +8372,7 @@
 8483 5.12 orderly
 8484 5.12 dems
 8485 5.11 29th
-8486 5.11 iÂd
+8486 5.11 i'd
 8487 5.11 segregation
 8488 5.11 unsure
 8489 5.11 congo
@@ -8539,13 +8430,12 @@
 8541 5.06 remotely
 8542 5.06 awe
 8543 5.06 stipulate
-8544 5.06 you’re
+8544 5.06 you're
 8545 5.06 mama
 8546 5.06 regeneration
 8547 5.06 robotic
 8548 5.05 waist
 8549 5.05 concur
-8550 5.05 Â
 8551 5.05 fetch
 8552 5.05 repayment
 8553 5.05 digestive
@@ -8626,7 +8516,6 @@
 8628 4.97 blogosphere
 8629 4.97 lumber
 8630 4.97 managed
-8631 4.97 e-learning
 8632 4.96 stab
 8633 4.96 blossom
 8634 4.96 catering
@@ -8942,14 +8831,13 @@
 8944 4.67 oasis
 8945 4.66 projector
 8946 4.66 koreans
-8947 4.66 letÂs
+8947 4.66 let's
 8948 4.66 chemist
 8949 4.66 maggie
 8950 4.66 perennial
 8951 4.66 cursor
 8952 4.66 lotus
 8953 4.66 entirety
-8954 4.66 e-book
 8955 4.66 beetle
 8956 4.66 set-up
 8957 4.66 prof
@@ -8958,7 +8846,7 @@
 8960 4.65 dire
 8961 4.65 simulator
 8962 4.65 recite
-8963 4.65 iÂll
+8963 4.65 i'll
 8964 4.65 transcription
 8965 4.65 thyroid
 8966 4.65 psychotherapy
@@ -9017,7 +8905,6 @@
 9019 4.60 elliott
 9020 4.60 jerk
 9021 4.60 resonance
-9022 4.59 
 9023 4.59 ultra
 9024 4.59 shuffle
 9025 4.59 geographic
@@ -9060,7 +8947,6 @@
 9062 4.57 persons
 9063 4.56 upload
 9064 4.56 usher
-9065 4.56 #4
 9066 4.56 60s
 9067 4.56 principally
 9068 4.55 yen
@@ -9068,7 +8954,7 @@
 9070 4.55 lou
 9071 4.55 russ
 9072 4.55 deprivation
-9073 4.55 todayÂs
+9073 4.55 today's
 9074 4.55 acm
 9075 4.55 exemplify
 9076 4.55 undue
@@ -9252,7 +9138,6 @@
 9254 4.39 dine
 9255 4.39 happening
 9256 4.39 indianapolis
-9257 4.39 k-12
 9258 4.39 pathetic
 9259 4.39 erupt
 9260 4.39 warp
@@ -9270,7 +9155,7 @@
 9272 4.38 immoral
 9273 4.38 drawer
 9274 4.38 disappearance
-9275 4.38 wouldnÂt
+9275 4.38 wouldn't
 9276 4.38 conservatism
 9277 4.38 bankrupt
 9278 4.38 arlington
@@ -9441,7 +9326,7 @@
 9443 4.25 theodore
 9444 4.25 geoff
 9445 4.25 logan
-9446 4.25 there’s
+9446 4.25 there's
 9447 4.25 beaver
 9448 4.25 pottery
 9449 4.25 isle
@@ -9449,7 +9334,6 @@
 9451 4.25 anaesthesia
 9452 4.25 chap
 9453 4.25 ping
-9454 4.24 …
 9455 4.24 authoritarian
 9456 4.24 supper
 9457 4.24 eminent
@@ -9499,7 +9383,7 @@
 9501 4.21 fireplace
 9502 4.21 tolerant
 9503 4.20 retina
-9504 4.20 childrenÂs
+9504 4.20 children's
 9505 4.20 entrust
 9506 4.20 wavelength
 9507 4.20 emulate
@@ -9615,7 +9499,7 @@
 9617 4.12 wary
 9618 4.12 manitoba
 9619 4.12 savior
-9620 4.12 cant
+9620 4.12 can't
 9621 4.12 applet
 9622 4.12 chandler
 9623 4.12 silently
@@ -9650,7 +9534,7 @@
 9652 4.11 trumpet
 9653 4.11 terrestrial
 9654 4.10 superman
-9655 4.10 youre
+9655 4.10 you're
 9656 4.10 dd
 9657 4.10 kidnap
 9658 4.10 yrs
@@ -9708,7 +9592,7 @@
 9710 4.06 webcast
 9711 4.06 worthless
 9712 4.06 lupus
-9713 4.06 oneÂs
+9713 4.06 one's
 9714 4.06 reformation
 9715 4.06 irc
 9716 4.06 insignificant
@@ -9742,7 +9626,6 @@
 9744 4.04 drastic
 9745 4.04 moderately
 9746 4.04 high-end
-9747 4.04 \
 9748 4.04 featured
 9749 4.04 condo
 9750 4.04 kaplan
@@ -9808,7 +9691,6 @@
 9810 3.98 geoffrey
 9811 3.98 studios
 9812 3.98 motorola
-9813 3.98 
 9814 3.98 nausea
 9815 3.98 foreseeable
 9816 3.98 degeneration
@@ -9828,7 +9710,6 @@
 9830 3.97 beatles
 9831 3.97 censure
 9832 3.97 cyclic
-9833 3.96 
 9834 3.96 excursion
 9835 3.96 scotia
 9836 3.96 bald
@@ -9866,7 +9747,6 @@
 9868 3.94 pyongyang
 9869 3.94 messy
 9870 3.94 cherish
-9871 3.94 
 9872 3.94 tremble
 9873 3.94 laborer
 9874 3.94 levels
@@ -9940,7 +9820,6 @@
 9942 3.90 scarcity
 9943 3.90 ups
 9944 3.90 freud
-9945 3.90 |--
 9946 3.90 unofficial
 9947 3.90 peters
 9948 3.89 packing
@@ -10060,7 +9939,6 @@
 10062 3.83 colt
 10063 3.83 correctional
 10064 3.83 exhibitor
-10065 3.83 Â½
 10066 3.83 raft
 10067 3.83 derby
 10068 3.83 obsess
@@ -10204,7 +10082,7 @@
 10206 3.75 theologian
 10207 3.75 randall
 10208 3.75 ethanol
-10209 3.75 we’re
+10209 3.75 we're
 10210 3.75 arbor
 10211 3.75 plainly
 10212 3.75 icann
@@ -10257,7 +10135,7 @@
 10259 3.72 adulthood
 10260 3.72 wield
 10261 3.72 garrett
-10262 3.72 godÂs
+10262 3.72 god's
 10263 3.72 leash
 10264 3.72 disqualify
 10265 3.71 Âit
@@ -10360,7 +10238,7 @@
 10362 3.64 roadway
 10363 3.63 clearinghouse
 10364 3.63 recollection
-10365 3.63 doesnt
+10365 3.63 doesn't
 10366 3.63 foley
 10367 3.63 lieu
 10368 3.63 temperament
@@ -10398,8 +10276,7 @@
 10400 3.62 Â©2006
 10401 3.62 synergy
 10402 3.62 lurk
-10403 3.62 arenÂt
-10404 3.62 Â°
+10403 3.62 aren't
 10405 3.62 champagne
 10406 3.62 plumbing
 10407 3.62 plenary
@@ -10417,14 +10294,12 @@
 10419 3.61 barber
 10420 3.61 insistence
 10421 3.61 accelerated
-10422 3.61 |----
 10423 3.61 remit
 10424 3.60 queer
 10425 3.60 morocco
 10426 3.60 informant
-10427 3.60 Â£
 10428 3.60 phenomenal
-10429 3.60 sheÂs
+10429 3.60 she's
 10430 3.60 harmonize
 10431 3.60 dusty
 10432 3.60 fallout
@@ -10436,7 +10311,6 @@
 10438 3.59 canopy
 10439 3.59 shear
 10440 3.59 slab
-10441 3.59 3-d
 10442 3.59 jung
 10443 3.59 coffin
 10444 3.59 avid
@@ -10452,7 +10326,6 @@
 10454 3.58 dom
 10455 3.58 rivers
 10456 3.58 chang
-10457 3.58 #5
 10458 3.58 kneel
 10459 3.58 years
 10460 3.58 vt
@@ -10469,9 +10342,8 @@
 10471 3.57 routledge
 10472 3.57 first-time
 10473 3.57 exodus
-10474 3.57 ª
 10475 3.57 taboo
-10476 3.57 weÂll
+10476 3.57 we'll
 10477 3.57 interconnect
 10478 3.57 deity
 10479 3.57 wallpaper
@@ -10527,7 +10399,7 @@
 10529 3.54 eyepiece
 10530 3.54 indifference
 10531 3.54 quarry
-10532 3.54 bushÂs
+10532 3.54 bush's
 10533 3.53 rattle
 10534 3.53 intangible
 10535 3.53 sociologist
@@ -10536,7 +10408,7 @@
 10538 3.53 unseen
 10539 3.53 wilkinson
 10540 3.53 menopause
-10541 3.53 peopleÂs
+10541 3.53 people's
 10542 3.53 ins
 10543 3.53 proclamation
 10544 3.53 rusty
@@ -10592,7 +10464,6 @@
 10594 3.50 joey
 10595 3.50 observance
 10596 3.50 ancestry
-10597 3.50 
 10598 3.50 bleach
 10599 3.50 replay
 10600 3.50 pluck
@@ -10745,7 +10616,7 @@
 10747 3.43 conducive
 10748 3.43 vitro
 10749 3.43 sur
-10750 3.43 governmentÂs
+10750 3.43 government's
 10751 3.43 constellation
 10752 3.43 gallo
 10753 3.43 knights
@@ -10764,7 +10635,7 @@
 10766 3.42 mag
 10767 3.42 michele
 10768 3.42 yuan
-10769 3.42 companyÂs
+10769 3.42 company's
 10770 3.42 instruments
 10771 3.42 crater
 10772 3.42 puff
@@ -10867,7 +10738,6 @@
 10869 3.35 bluff
 10870 3.35 anonymity
 10871 3.35 emeritus
-10872 3.35 
 10873 3.35 franz
 10874 3.35 confiscate
 10875 3.35 fascism
@@ -10959,7 +10829,6 @@
 10961 3.31 versatile
 10962 3.31 enlarged
 10963 3.31 maureen
-10964 3.31 e-business
 10965 3.31 billboard
 10966 3.31 monies
 10967 3.31 grantee
@@ -11013,7 +10882,6 @@
 11015 3.29 birch
 11016 3.29 ashcroft
 11017 3.29 reputable
-11018 3.29 c#
 11019 3.29 heighten
 11020 3.29 lighten
 11021 3.29 cub
@@ -11121,7 +10989,7 @@
 11123 3.24 unfinished
 11124 3.24 trough
 11125 3.23 solaris
-11126 3.23 americaÂs
+11126 3.23 america's
 11127 3.23 nicole
 11128 3.23 bartlett
 11129 3.23 mommy
@@ -11129,7 +10997,6 @@
 11131 3.23 tint
 11132 3.23 iroquois
 11133 3.23 nasal
-11134 3.23 
 11135 3.23 janice
 11136 3.23 suzanne
 11137 3.23 shovel
@@ -11171,7 +11038,7 @@
 11173 3.21 russert
 11174 3.21 moody
 11175 3.20 hiding
-11176 3.20 theres
+11176 3.20 there's
 11177 3.20 imam
 11178 3.20 demonstrator
 11179 3.20 nickel
@@ -11260,7 +11127,7 @@
 11262 3.15 lancet
 11263 3.15 centrally
 11264 3.15 doesnt
-11265 3.15 yearÂs
+11265 3.15 year's
 11266 3.15 cato
 11267 3.15 granite
 11268 3.15 marion
@@ -11366,7 +11233,7 @@
 11368 3.10 particulate
 11369 3.10 aaa
 11370 3.10 gerry
-11371 3.10 they’re
+11371 3.10 they're
 11372 3.10 blackwell
 11373 3.10 ama
 11374 3.10 foliage
@@ -11457,7 +11324,7 @@
 11459 3.07 riaa
 11460 3.07 cigar
 11461 3.07 sears
-11462 3.07 havenÂt
+11462 3.07 haven't
 11463 3.07 gladly
 11464 3.07 earthly
 11465 3.07 fahrenheit
@@ -11465,7 +11332,7 @@
 11467 3.07 lush
 11468 3.07 dreadful
 11469 3.07 frankfurt
-11470 3.07 isn’t
+11470 3.07 isn't
 11471 3.07 photon
 11472 3.06 overlay
 11473 3.06 revere
@@ -11527,7 +11394,7 @@
 11529 3.04 mystic
 11530 3.04 allison
 11531 3.04 tandem
-11532 3.04 nationÂs
+11532 3.04 nation's
 11533 3.04 arterial
 11534 3.04 labourer
 11535 3.03 hardwood
@@ -11595,7 +11462,6 @@
 11597 3.00 re-election
 11598 3.00 sleepy
 11599 3.00 peacefully
-11600 3.00 e-mailed
 11601 3.00 shampoo
 11602 3.00 devastation
 11603 3.00 fletcher
@@ -11644,7 +11510,6 @@
 11646 2.98 cartel
 11647 2.98 fad
 11648 2.98 pac
-11649 2.98 Â­
 11650 2.98 intestinal
 11651 2.98 deterrence
 11652 2.98 sacrament
@@ -11661,7 +11526,6 @@
 11663 2.98 biscuit
 11664 2.97 craftsman
 11665 2.97 spinning
-11666 2.97 Âs
 11667 2.97 blunder
 11668 2.97 popcorn
 11669 2.97 authenticate
@@ -11901,7 +11765,6 @@
 11903 2.88 adr
 11904 2.88 superstition
 11905 2.88 consonant
-11906 2.87 -the
 11907 2.87 winnipeg
 11908 2.87 predetermine
 11909 2.87 individuality
@@ -11963,7 +11826,7 @@
 11965 2.85 watergate
 11966 2.85 aquaculture
 11967 2.84 eddy
-11968 2.84 were
+11968 2.84 we're
 11969 2.84 managers
 11970 2.84 harriet
 11971 2.84 kos
@@ -12048,7 +11911,6 @@
 12050 2.82 comedian
 12051 2.81 suzuki
 12052 2.81 rework
-12053 2.81 #6
 12054 2.81 innovate
 12055 2.81 plum
 12056 2.81 fray
@@ -12354,7 +12216,6 @@
 12356 2.70 drugs
 12357 2.70 engrave
 12358 2.70 interdependence
-12359 2.70 
 12360 2.70 cracker
 12361 2.70 rp
 12362 2.70 embodiment
@@ -12389,7 +12250,7 @@
 12391 2.69 greenspan
 12392 2.69 cramp
 12393 2.69 digestion
-12394 2.69 he’s
+12394 2.69 he's
 12395 2.69 magician
 12396 2.69 runaway
 12397 2.69 prospectus
@@ -12406,7 +12267,7 @@
 12408 2.68 wink
 12409 2.68 agents
 12410 2.68 oed
-12411 2.68 i’ll
+12411 2.68 i'll
 12412 2.68 orthopaedic
 12413 2.68 dangerously
 12414 2.68 ravage
@@ -12460,7 +12321,6 @@
 12462 2.67 volleyball
 12463 2.67 wifi
 12464 2.66 desperation
-12465 2.66 Â¶
 12466 2.66 otto
 12467 2.66 nano
 12468 2.66 andre
@@ -12861,7 +12721,7 @@
 12863 2.53 malta
 12864 2.53 impractical
 12865 2.53 tremor
-12866 2.53 countryÂs
+12866 2.53 country's
 12867 2.53 rationalization
 12868 2.53 salesperson
 12869 2.53 chrysler
@@ -12891,7 +12751,7 @@
 12893 2.52 anime
 12894 2.52 savannah
 12895 2.52 nicotine
-12896 2.52 ive
+12896 2.52 i've
 12897 2.52 condensed
 12898 2.52 rubric
 12899 2.52 andreas
@@ -12910,7 +12770,7 @@
 12912 2.51 stint
 12913 2.51 mule
 12914 2.51 burlington
-12915 2.51 won’t
+12915 2.51 won't
 12916 2.51 add-on
 12917 2.51 effluent
 12918 2.51 apprehend
@@ -12986,7 +12846,7 @@
 12988 2.49 mohawk
 12989 2.49 repentance
 12990 2.49 liberties
-12991 2.49 i’d
+12991 2.49 i'd
 12992 2.49 skilful
 12993 2.49 bigotry
 12994 2.49 jubilee
@@ -13334,7 +13194,6 @@
 13336 2.38 quorum
 13337 2.38 shale
 13338 2.38 housekeeping
-13339 2.38 →
 13340 2.38 orchid
 13341 2.38 regenerate
 13342 2.38 scribe
@@ -13353,7 +13212,7 @@
 13355 2.38 prerogative
 13356 2.38 torso
 13357 2.38 slander
-13358 2.37 wasn’t
+13358 2.37 wasn't
 13359 2.37 lawyers
 13360 2.37 refinance
 13361 2.37 enslave
@@ -13363,7 +13222,6 @@
 13365 2.37 cjd
 13366 2.37 conservatory
 13367 2.37 feline
-13368 2.37 #7
 13369 2.37 westward
 13370 2.37 naacp
 13371 2.37 firsthand
@@ -13424,7 +13282,7 @@
 13426 2.35 theresa
 13427 2.35 citrus
 13428 2.35 byzantine
-13429 2.35 womens
+13429 2.35 women's
 13430 2.35 responsiveness
 13431 2.35 idealism
 13432 2.35 meteor
@@ -13441,7 +13299,7 @@
 13443 2.35 durbin
 13444 2.35 musing
 13445 2.34 sim
-13446 2.34 childÂs
+13446 2.34 child's
 13447 2.34 xii
 13448 2.34 racket
 13449 2.34 aroma
@@ -13482,7 +13340,7 @@
 13484 2.34 chestnut
 13485 2.34 dove
 13486 2.34 sinatra
-13487 2.34 ÂitÂs
+13487 2.34 Âit's
 13488 2.34 soothe
 13489 2.33 abbas
 13490 2.33 cet
@@ -13560,7 +13418,7 @@
 13562 2.31 encapsulate
 13563 2.31 murdoch
 13564 2.31 rec
-13565 2.31 theyre
+13565 2.31 they're
 13566 2.31 bates
 13567 2.31 fibonacci
 13568 2.31 opaque
@@ -13579,7 +13437,7 @@
 13581 2.31 portability
 13582 2.30 dope
 13583 2.30 tr
-13584 2.30 stateÂs
+13584 2.30 state's
 13585 2.30 equatorial
 13586 2.30 gerard
 13587 2.30 eyelid
@@ -13748,7 +13606,7 @@
 13750 2.25 groundwork
 13751 2.25 roles
 13752 2.25 exeter
-13753 2.25 what’s
+13753 2.25 what's
 13754 2.25 multiplayer
 13755 2.25 cern
 13756 2.25 paulo
@@ -13876,7 +13734,6 @@
 13878 2.22 pepsi
 13879 2.22 aarp
 13880 2.22 modern-day
-13881 2.22 
 13882 2.22 spoiler
 13883 2.22 burglar
 13884 2.22 dial-up
@@ -13897,7 +13754,7 @@
 13899 2.21 fiasco
 13900 2.21 inflame
 13901 2.21 tuc
-13902 2.21 youll
+13902 2.21 you'll
 13903 2.21 parting
 13904 2.21 cautiously
 13905 2.21 registe
@@ -13967,7 +13824,7 @@
 13969 2.19 embarrassed
 13970 2.19 yellowstone
 13971 2.19 handshake
-13972 2.19 hereÂs
+13972 2.19 here's
 13973 2.19 bentley
 13974 2.19 bravery
 13975 2.19 freshman
@@ -14049,7 +13906,7 @@
 14051 2.17 tribulation
 14052 2.17 moulding
 14053 2.17 mythical
-14054 2.17 we’ve
+14054 2.17 we've
 14055 2.17 observable
 14056 2.17 marcia
 14057 2.17 gc
@@ -14067,7 +13924,7 @@
 14069 2.17 amsoil
 14070 2.17 panorama
 14071 2.16 populist
-14072 2.16 isnt
+14072 2.16 isn't
 14073 2.16 summons
 14074 2.16 witchcraft
 14075 2.16 jockey
@@ -14162,7 +14019,6 @@
 14164 2.14 vortex
 14165 2.14 cecil
 14166 2.14 nudge
-14167 2.14 ±
 14168 2.14 internalize
 14169 2.14 custodial
 14170 2.14 lunatic
@@ -14470,7 +14326,7 @@
 14472 2.07 microbe
 14473 2.07 sign-up
 14474 2.06 cross-country
-14475 2.06 theyÂve
+14475 2.06 they've
 14476 2.06 shudder
 14477 2.06 rodeo
 14478 2.06 philanthropic
@@ -14501,7 +14357,7 @@
 14503 2.06 slipper
 14504 2.06 indistinguishable
 14505 2.06 pervade
-14506 2.06 world’s
+14506 2.06 world's
 14507 2.06 debilitating
 14508 2.06 anti-semitic
 14509 2.06 deviant
@@ -14556,13 +14412,11 @@
 14558 2.04 six-month
 14559 2.04 yemen
 14560 2.04 bitterly
-14561 2.04 
 14562 2.04 nolan
 14563 2.04 richly
 14564 2.04 mullah
 14565 2.04 putt
 14566 2.04 accrument
-14567 2.04 
 14568 2.04 fixation
 14569 2.04 louse
 14570 2.04 fleece
@@ -14633,7 +14487,7 @@
 14635 2.02 howell
 14636 2.02 barrage
 14637 2.02 marginally
-14638 2.02 you’ll
+14638 2.02 you'll
 14639 2.02 sabbatical
 14640 2.02 life-long
 14641 2.02 proctor
@@ -14721,7 +14575,7 @@
 14723 2.00 dampen
 14724 2.00 franken
 14725 2.00 jw
-14726 2.00 presidentÂs
+14726 2.00 president's
 14727 2.00 lessig
 14728 2.00 ts
 14729 2.00 chrome
@@ -14802,9 +14656,8 @@
 14804 1.98 outflow
 14805 1.98 lockheed
 14806 1.98 melodic
-14807 1.98 Ã
 14808 1.98 20s
-14809 1.98 wont
+14809 1.98 won't
 14810 1.98 spoiled
 14811 1.98 whitman
 14812 1.98 incest
@@ -14813,7 +14666,6 @@
 14815 1.98 choral
 14816 1.98 austen
 14817 1.98 30-day
-14818 1.98 \n
 14819 1.98 mother-in-law
 14820 1.98 trance
 14821 1.98 scribble
@@ -14824,7 +14676,7 @@
 14826 1.97 radiological
 14827 1.97 broad-based
 14828 1.97 dreamer
-14829 1.97 heÂd
+14829 1.97 he'd
 14830 1.97 paradoxical
 14831 1.97 foray
 14832 1.97 relapse
@@ -15056,7 +14908,7 @@
 15058 1.92 evaluator
 15059 1.92 dynamite
 15060 1.92 diaphragm
-15061 1.92 couldn’t
+15061 1.92 couldn't
 15062 1.92 gat
 15063 1.92 bandage
 15064 1.92 ebb
@@ -15072,7 +14924,7 @@
 15074 1.92 fraught
 15075 1.92 amass
 15076 1.92 divisive
-15077 1.92 studentÂs
+15077 1.92 student's
 15078 1.92 bun
 15079 1.92 rapper
 15080 1.92 disciplined
@@ -15145,7 +14997,6 @@
 15147 1.91 ans
 15148 1.91 kendall
 15149 1.91 graze
-15150 1.91 #8
 15151 1.91 quirk
 15152 1.91 thermostat
 15153 1.90 horoscope
@@ -15171,7 +15022,7 @@
 15173 1.90 unchecked
 15174 1.90 bon
 15175 1.90 thought-provoking
-15176 1.90 werenÂt
+15176 1.90 weren't
 15177 1.90 memories
 15178 1.90 adjudication
 15179 1.90 dun
@@ -15199,7 +15050,7 @@
 15201 1.90 fafsa
 15202 1.90 requests
 15203 1.89 charisma
-15204 1.89 wouldn’t
+15204 1.89 wouldn't
 15205 1.89 lai
 15206 1.89 crackdown
 15207 1.89 retro
@@ -15230,10 +15081,10 @@
 15232 1.89 poop
 15233 1.89 retrofit
 15234 1.89 gangster
-15235 1.89 aren’t
+15235 1.89 aren't
 15236 1.89 shelby
 15237 1.89 blatantly
-15238 1.89 you’ve
+15238 1.89 you've
 15239 1.89 ewing
 15240 1.89 yearbook
 15241 1.89 rebellious
@@ -15303,8 +15154,8 @@
 15305 1.87 developing
 15306 1.87 sharma
 15307 1.87 symmetrical
-15308 1.87 let’s
-15309 1.87 wasnt
+15308 1.87 let's
+15309 1.87 wasn't
 15310 1.87 pradesh
 15311 1.87 emi
 15312 1.87 resistor
@@ -15435,7 +15286,7 @@
 15437 1.85 zimmerman
 15438 1.85 olsen
 15439 1.85 polarization
-15440 1.85 childrens
+15440 1.85 children's
 15441 1.85 bystander
 15442 1.85 accordion
 15443 1.85 grilled
@@ -15470,7 +15321,7 @@
 15472 1.84 functionally
 15473 1.84 stalker
 15474 1.84 appreciative
-15475 1.84 studentsÂ
+15475 1.84 students'
 15476 1.84 inoculate
 15477 1.84 malaysian
 15478 1.84 dolby
@@ -15485,7 +15336,7 @@
 15487 1.84 35mm
 15488 1.84 speculator
 15489 1.84 reformed
-15490 1.84 whats
+15490 1.84 what's
 15491 1.84 misc
 15492 1.84 undecided
 15493 1.84 extensible
@@ -15534,7 +15385,6 @@
 15536 1.82 sesame
 15537 1.82 miranda
 15538 1.82 antagonist
-15539 1.82 --the
 15540 1.82 godly
 15541 1.82 scant
 15542 1.82 unpack
@@ -15584,7 +15434,6 @@
 15586 1.81 tulsa
 15587 1.81 quincy
 15588 1.81 brigadier
-15589 1.81 
 15590 1.81 fas
 15591 1.81 engross
 15592 1.81 unscrupulous
@@ -15612,7 +15461,6 @@
 15614 1.80 aptly
 15615 1.80 airman
 15616 1.80 rue
-15617 1.80 #9
 15618 1.80 adolf
 15619 1.80 metaphoric
 15620 1.80 alistair
@@ -15718,7 +15566,7 @@
 15720 1.79 diminished
 15721 1.79 elude
 15722 1.79 samantha
-15723 1.79 weve
+15723 1.79 we've
 15724 1.78 mammalian
 15725 1.78 conceptually
 15726 1.78 unreasonably
@@ -15949,7 +15797,6 @@
 15951 1.74 flawless
 15952 1.74 reconnect
 15953 1.74 larsen
-15954 1.74 
 15955 1.74 illogical
 15956 1.74 gall
 15957 1.74 sbc
@@ -15972,7 +15819,7 @@
 15974 1.74 downtime
 15975 1.74 bored
 15976 1.74 hadith
-15977 1.74 ones
+15977 1.74 one's
 15978 1.74 lsu
 15979 1.74 gripe
 15980 1.74 occupier
@@ -16046,7 +15893,7 @@
 16048 1.73 anomalous
 16049 1.73 cassie
 16050 1.73 broccoli
-16051 1.73 hes
+16051 1.73 he's
 16052 1.73 henceforth
 16053 1.73 bombardment
 16054 1.73 superimpose
@@ -16132,12 +15979,12 @@
 16134 1.71 qca
 16135 1.71 playa
 16136 1.71 jurist
-16137 1.71 youÂd
+16137 1.71 you'd
 16138 1.71 feud
 16139 1.71 jug
 16140 1.71 distressing
 16141 1.71 cios
-16142 1.71 ÂiÂm
+16142 1.71 Âi'm
 16143 1.71 fiji
 16144 1.71 nairobi
 16145 1.71 muller
@@ -16154,7 +16001,7 @@
 16156 1.71 deli
 16157 1.71 authorities
 16158 1.71 neurologist
-16159 1.71 worlds
+16159 1.71 world's
 16160 1.71 amplification
 16161 1.71 dl
 16162 1.71 secretive
@@ -16242,7 +16089,7 @@
 16244 1.69 scourge
 16245 1.69 amway
 16246 1.69 autoimmune
-16247 1.69 couldnt
+16247 1.69 couldn't
 16248 1.69 ever-increase
 16249 1.69 microscopy
 16250 1.69 straits
@@ -16519,7 +16366,7 @@
 16521 1.65 two-dimensional
 16522 1.65 viva
 16523 1.65 favored
-16524 1.65 todays
+16524 1.65 today's
 16525 1.65 osborne
 16526 1.65 botany
 16527 1.65 drucker
@@ -16551,7 +16398,7 @@
 16553 1.64 indemnification
 16554 1.64 endogenous
 16555 1.64 eternally
-16556 1.64 whoÂs
+16556 1.64 who's
 16557 1.64 sup
 16558 1.64 robyn
 16559 1.64 leno
@@ -16573,7 +16420,7 @@
 16575 1.64 blob
 16576 1.64 skyscraper
 16577 1.64 divulge
-16578 1.64 personÂs
+16578 1.64 person's
 16579 1.64 circuitry
 16580 1.64 editor-in-chief
 16581 1.64 kern
@@ -16581,7 +16428,7 @@
 16583 1.64 dispersal
 16584 1.64 opportunistic
 16585 1.64 romanian
-16586 1.64 hadnÂt
+16586 1.64 hadn't
 16587 1.64 gmail
 16588 1.64 bandwagon
 16589 1.64 extravagant
@@ -16648,7 +16495,7 @@
 16650 1.63 endobj
 16651 1.63 retailing
 16652 1.63 unsuspecting
-16653 1.63 theyÂll
+16653 1.63 they'll
 16654 1.63 diem
 16655 1.63 wrestling
 16656 1.63 nostalgic
@@ -16774,7 +16621,7 @@
 16776 1.60 ib
 16777 1.60 collecting
 16778 1.60 kappa
-16779 1.60 gods
+16779 1.60 god's
 16780 1.60 atlantis
 16781 1.60 glacial
 16782 1.60 chasm
@@ -16785,10 +16632,9 @@
 16787 1.60 jboss
 16788 1.60 peacetime
 16789 1.60 qatar
-16790 1.60 today’s
+16790 1.60 today's
 16791 1.60 cholera
 16792 1.60 apologist
-16793 1.60 -a
 16794 1.60 pharmaceuticals
 16795 1.60 consignment
 16796 1.60 niv
@@ -16814,7 +16660,7 @@
 16816 1.60 a-level
 16817 1.60 treo
 16818 1.60 colloquium
-16819 1.60 workersÂ
+16819 1.60 workers'
 16820 1.60 sickle
 16821 1.60 dea
 16822 1.60 aromatic
@@ -16840,7 +16686,7 @@
 16842 1.59 donovan
 16843 1.59 haryana
 16844 1.59 gregorian
-16845 1.59 manÂs
+16845 1.59 man's
 16846 1.59 typography
 16847 1.59 skilfully
 16848 1.59 age-related
@@ -16910,7 +16756,6 @@
 16912 1.58 ty
 16913 1.58 ami
 16914 1.58 aborigine
-16915 1.58 ¤
 16916 1.58 seeds
 16917 1.58 unspoken
 16918 1.58 unbelievably
@@ -16968,7 +16813,6 @@
 16970 1.57 arduous
 16971 1.57 nip
 16972 1.57 auf
-16973 1.57 Ã¢ÂÂ
 16974 1.57 fairbanks
 16975 1.57 proportionate
 16976 1.57 restraining
@@ -17027,7 +16871,7 @@
 17029 1.56 rejuvenate
 17030 1.56 obscurity
 17031 1.56 donaldson
-17032 1.56 cityÂs
+17032 1.56 city's
 17033 1.56 reintroduce
 17034 1.56 unbalanced
 17035 1.56 lycos
@@ -17083,7 +16927,6 @@
 17085 1.55 mv
 17086 1.55 rampage
 17087 1.55 madagascar
-17088 1.55 ®
 17089 1.55 caucasus
 17090 1.55 proletarian
 17091 1.55 juncture
@@ -17146,7 +16989,7 @@
 17148 1.54 canary
 17149 1.54 kelvin
 17150 1.54 run-up
-17151 1.54 #10
+10
 17152 1.54 hms
 17153 1.54 lgbt
 17154 1.54 grown-up
@@ -17284,7 +17127,7 @@
 17286 1.52 vice-chancellor
 17287 1.52 kai
 17288 1.52 uris
-17289 1.52 lets
+17289 1.52 let's
 17290 1.52 1gb
 17291 1.52 ______
 17292 1.52 duality
@@ -17314,7 +17157,7 @@
 17316 1.52 reposition
 17317 1.52 kiddy
 17318 1.52 primacy
-17319 1.52 shouldnÂt
+17319 1.52 shouldn't
 17320 1.52 autobiographical
 17321 1.52 customizable
 17322 1.52 npc
@@ -17378,7 +17221,7 @@
 17380 1.51 turns
 17381 1.51 demean
 17382 1.51 hiawatha
-17383 1.51 hasnÂt
+17383 1.51 hasn't
 17384 1.51 ludhiana
 17385 1.51 supercomputer
 17386 1.51 deterministic
@@ -17470,7 +17313,7 @@
 17472 1.49 coo
 17473 1.49 kemp
 17474 1.49 braun
-17475 1.49 id
+17475 1.49 i'd
 17476 1.49 abiword
 17477 1.49 marcos
 17478 1.49 ventilator
@@ -17669,7 +17512,6 @@
 17671 1.47 abate
 17672 1.47 newfound
 17673 1.47 omega-3
-17674 1.47 
 17675 1.47 adorable
 17676 1.47 bahrain
 17677 1.47 interrelationship
@@ -17871,7 +17713,6 @@
 17873 1.44 beret
 17874 1.44 valium
 17875 1.44 df
-17876 1.44 4-h
 17877 1.44 naturalization
 17878 1.44 swanson
 17879 1.44 nutritionist
@@ -17931,14 +17772,13 @@
 17933 1.43 ventilate
 17934 1.43 occupying
 17935 1.43 stephan
-17936 1.43 *the
 17937 1.43 disassemble
 17938 1.43 lowry
 17939 1.43 malt
 17940 1.43 cavern
 17941 1.43 playlist
 17942 1.43 superbly
-17943 1.43 menÂs
+17943 1.43 men's
 17944 1.43 developmentally
 17945 1.43 protectionist
 17946 1.43 cadence
@@ -18062,7 +17902,7 @@
 18064 1.42 billionaire
 18065 1.42 immunodeficiency
 18066 1.42 unisys
-18067 1.42 we’ll
+18067 1.42 we'll
 18068 1.42 hyperactivity
 18069 1.42 commemorative
 18070 1.42 fingernail
@@ -18250,7 +18090,7 @@
 18252 1.39 compton
 18253 1.39 png
 18254 1.39 deep-rooted
-18255 1.39 chinaÂs
+18255 1.39 china's
 18256 1.39 well-meaning
 18257 1.39 iptv
 18258 1.39 amelia
@@ -18302,7 +18142,7 @@
 18304 1.39 cannes
 18305 1.39 inexplicable
 18306 1.39 colby
-18307 1.39 fatherÂs
+18307 1.39 father's
 18308 1.38 ginny
 18309 1.38 coauthor
 18310 1.38 paramedic
@@ -18459,7 +18299,7 @@
 18461 1.37 fourier
 18462 1.37 colombo
 18463 1.37 unbroken
-18464 1.37 weÂd
+18464 1.37 we'd
 18465 1.37 thom
 18466 1.37 whitewater
 18467 1.37 mainstay
@@ -18502,7 +18342,6 @@
 18504 1.36 perilous
 18505 1.36 employability
 18506 1.36 yasser
-18507 1.36 #include
 18508 1.36 irradiated
 18509 1.36 futility
 18510 1.36 aquinas
@@ -18571,7 +18410,7 @@
 18573 1.35 annette
 18574 1.35 karaoke
 18575 1.35 nominally
-18576 1.35 peoples
+18576 1.35 people's
 18577 1.35 tkd
 18578 1.35 limousine
 18579 1.35 davy
@@ -18678,7 +18517,7 @@
 18680 1.34 outta
 18681 1.33 self-employment
 18682 1.33 timelines
-18683 1.33 companys
+18683 1.33 company's
 18684 1.33 jamestown
 18685 1.33 tricare
 18686 1.33 madeleine
@@ -18741,12 +18580,11 @@
 18743 1.33 environmentalism
 18744 1.33 xpath
 18745 1.33 psa
-18746 1.33 women’s
+18746 1.33 women's
 18747 1.33 fag
 18748 1.33 flounder
 18749 1.33 riveting
 18750 1.33 jennie
-18751 1.33 ###
 18752 1.33 accustomed
 18753 1.33 defunct
 18754 1.33 co-op
@@ -18792,7 +18630,7 @@
 18794 1.32 asic
 18795 1.32 demeanor
 18796 1.32 subordination
-18797 1.32 haven’t
+18797 1.32 haven't
 18798 1.32 powerline
 18799 1.32 whomever
 18800 1.32 crowley
@@ -18801,7 +18639,7 @@
 18803 1.32 cello
 18804 1.32 segal
 18805 1.32 clique
-18806 1.32 youve
+18806 1.32 you've
 18807 1.32 hapless
 18808 1.32 uploading
 18809 1.32 recombinant
@@ -18973,7 +18811,6 @@
 18975 1.30 chicano
 18976 1.30 behind-the-scene
 18977 1.30 adsl
-18978 1.30 5-year
 18979 1.30 nda
 18980 1.30 homeschoolers
 18981 1.30 flores
@@ -19007,7 +18844,6 @@
 19009 1.30 hooked
 19010 1.30 lauk
 19011 1.30 constitutionality
-19012 1.30 Ã¢ÂÂ
 19013 1.30 candor
 19014 1.30 chiropractor
 19015 1.30 friendliness
@@ -19166,7 +19002,6 @@
 19168 1.28 mastermind
 19169 1.28 succinctly
 19170 1.28 preempt
-19171 1.28 Â¼
 19172 1.28 sk
 19173 1.28 stockton
 19174 1.28 superannuation
@@ -19224,7 +19059,7 @@
 19226 1.28 flies
 19227 1.28 uncompromising
 19228 1.27 blasphemy
-19229 1.27 iraqÂs
+19229 1.27 iraq's
 19230 1.27 ambivalence
 19231 1.27 deride
 19232 1.27 sequoia
@@ -19241,7 +19076,6 @@
 19243 1.27 dnr
 19244 1.27 fitted
 19245 1.27 ridder
-19246 1.27 e-government
 19247 1.27 perceptive
 19248 1.27 elizabethan
 19249 1.27 meek
@@ -19302,7 +19136,6 @@
 19304 1.27 baccalaureate
 19305 1.27 cyst
 19306 1.27 robustness
-19307 1.27 --a
 19308 1.27 lssi
 19309 1.27 rip-off
 19310 1.27 embroidery
@@ -19424,7 +19257,7 @@
 19426 1.26 land-based
 19427 1.26 hearten
 19428 1.26 wasnt
-19429 1.26 ill
+19429 1.26 i'll
 19430 1.26 ulysses
 19431 1.26 leah
 19432 1.26 implore
@@ -19432,9 +19265,7 @@
 19434 1.26 hawks
 19435 1.25 barnard
 19436 1.25 crippling
-19437 1.25 e-books
 19438 1.25 avionics
-19439 1.25 -see
 19440 1.25 doin
 19441 1.25 thurmond
 19442 1.25 deformity
@@ -19491,7 +19322,6 @@
 19493 1.25 overpower
 19494 1.25 argumentation
 19495 1.25 flowing
-19496 1.25 *not*
 19497 1.25 pandora
 19498 1.25 paterson
 19499 1.25 centrist
@@ -19512,7 +19342,6 @@
 19514 1.25 hci
 19515 1.25 diastolic
 19516 1.25 flatly
-19517 1.25 Â
 19518 1.25 congest
 19519 1.25 inevitability
 19520 1.25 osu
@@ -19656,7 +19485,6 @@
 19658 1.23 nk
 19659 1.23 allegory
 19660 1.23 ei
-19661 1.23 #11
 19662 1.23 actionable
 19663 1.23 terence
 19664 1.23 lemonade
@@ -19697,7 +19525,7 @@
 19699 1.22 fidel
 19700 1.22 deutsch
 19701 1.22 sicily
-19702 1.22 childs
+19702 1.22 child's
 19703 1.22 webpages
 19704 1.22 antiquated
 19705 1.22 counterbalance
@@ -19714,7 +19542,7 @@
 19716 1.22 watchtower
 19717 1.22 postman
 19718 1.22 gratuitous
-19719 1.22 motherÂs
+19719 1.22 mother's
 19720 1.22 ding
 19721 1.22 hydrologic
 19722 1.22 agnostic
@@ -19819,7 +19647,6 @@
 19821 1.21 repute
 19822 1.21 inextricably
 19823 1.21 hermann
-19824 1.21 #12
 19825 1.21 cathode
 19826 1.21 assertiveness
 19827 1.21 well-educated
@@ -19863,13 +19690,12 @@
 19865 1.21 harwood
 19866 1.21 heavy-duty
 19867 1.21 dfes
-19868 1.21 arent
+19868 1.21 aren't
 19869 1.21 kuala
 19870 1.21 huff
 19871 1.21 rahman
 19872 1.21 contentment
 19873 1.21 wheeze
-19874 1.21 p-i
 19875 1.21 intently
 19876 1.21 monsoon
 19877 1.21 resonant
@@ -19881,7 +19707,7 @@
 19883 1.21 bees
 19884 1.21 refutation
 19885 1.21 flammable
-19886 1.21 people’s
+19886 1.21 people's
 19887 1.21 websphere
 19888 1.21 innocuous
 19889 1.21 unsecured
@@ -19970,7 +19796,7 @@
 19972 1.20 well-trained
 19973 1.20 brand-new
 19974 1.20 twenty-three
-19975 1.20 america’s
+19975 1.20 america's
 19976 1.20 morbid
 19977 1.20 postmark
 19978 1.20 gardiner
@@ -19988,7 +19814,7 @@
 19990 1.20 edict
 19991 1.20 brutus
 19992 1.20 asparagus
-19993 1.20 administrationÂs
+19993 1.20 administration's
 19994 1.20 talking
 19995 1.20 read-only
 19996 1.20 marquis
