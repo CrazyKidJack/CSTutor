@@ -20,6 +20,10 @@
 using namespace std;
 using namespace Dict;
 using filesystem::path;
+using WordLst = vector<DNshPtr>;
+using WordTable = map<int, pair<DNshPtr, WordLst>>;
+using Phrase = vector<DNshPtr>;
+using PhraseLst = vector<Phrase>;
 
 //////////////////////////////////////////////////////////////////////////////
 // FUNCTION DECLARATIONS
@@ -35,24 +39,25 @@ path getDictPath();
 //                 to the root of the Dictionary
 void parsePhrase(
   string const &phrase,
-  map<int, pair<DNshPtr, vector<DNshPtr>>> &wordTable
+  WordTable &wordTable
 );
 
 //----------------------------------------------------------------------------
-void prntWordTable(map<int, pair<DNshPtr, vector<DNshPtr>>> const &wordTable);
+void prntWordTable(WordTable const &wordTable);
 
 //----------------------------------------------------------------------------
 //gets a list of possible phrases from the wordTable
-vector<vector<DNshPtr>> getPhrases(
-  map<int, pair<DNshPtr, vector<DNshPtr>>> const &wordTable,
-  int idx
+PhraseLst getPhrases(
+  WordTable const &wordTable,
+  int idx,
+  int const phraseLen = -1
 );
 
 //----------------------------------------------------------------------------
 //MODIFIES maxPhrase and maxFreq to represet the phrase
 //  with the highest possible cummulative frequency in the phraseLst
 void findBestPhrase(
-  vector<vector<DNshPtr>> const &phraseLst,
+  PhraseLst const &phraseLst,
   string &maxPhrase,
   double &maxFreq
 );
@@ -83,23 +88,23 @@ int main(){
 //initialize wordTable to a single, empty wordLst
 //  the tracking nodePtr for that list points to the
 //  root of the dictionary to prepare for parsing
-  map<int, pair<DNshPtr, vector<DNshPtr>>> wordTable{{
+  WordTable wordTable{{
     0,
     {
       DNshPtr(DNshPtr{}, &dict),
-      vector<DNshPtr>()
+      WordLst()
     }
   }};
 
   parsePhrase(phrase, wordTable);
   erase_if(wordTable, [](auto const &elem) {
-    vector<DNshPtr> const &wordLst = elem.second.second;
+    WordLst const &wordLst = elem.second.second;
     return wordLst.empty();
   });
 
   prntWordTable(wordTable);
 
-  vector<vector<DNshPtr>> phraseLst(getPhrases(wordTable, 0));
+  PhraseLst phraseLst(getPhrases(wordTable, 0));
   string maxPhrase;
   double maxFreq;
   findBestPhrase(phraseLst, maxPhrase, maxFreq);
@@ -130,7 +135,7 @@ path getDictPath(){
 //----------------------------------------------------------------------------
 void parsePhrase(
   string const &phrase,
-  map<int, pair<DNshPtr, vector<DNshPtr>>> &wordTable
+  WordTable &wordTable
 ){
   DNshPtr const dictPtr(wordTable.at(0).first);
 
@@ -139,7 +144,7 @@ void parsePhrase(
     char const &ch = phrase[idx];
 
 
-    map<int, pair<DNshPtr, vector<DNshPtr>>> newWordTable;
+    WordTable newWordTable;
     //LOOP THRU wordTable
     for (auto& [key, val] : wordTable){
       if(val.first == nullptr) continue;
@@ -155,7 +160,7 @@ void parsePhrase(
         val.second.push_back(currNodePtr);
         newWordTable.emplace(
           idx+1,
-          make_pair(DNshPtr(DNshPtr{}, dictPtr.get()), vector<DNshPtr>())
+          make_pair(DNshPtr(DNshPtr{}, dictPtr.get()), WordLst())
         );
       }//end if currNode is a word
     }//END LOOP THRU wordTable
@@ -165,7 +170,7 @@ void parsePhrase(
 }//end parsePhrase
 
 //----------------------------------------------------------------------------
-void prntWordTable(map<int, pair<DNshPtr, vector<DNshPtr>>> const &wordTable){
+void prntWordTable(WordTable const &wordTable){
   for (auto const &[key, val] : wordTable){
     cout << "wordTable[" << key << "] = {";
     for (int idx = 0; idx < val.second.size(); ++idx){
@@ -177,17 +182,18 @@ void prntWordTable(map<int, pair<DNshPtr, vector<DNshPtr>>> const &wordTable){
 }//end prntWordTable
 
 //----------------------------------------------------------------------------
-vector<vector<DNshPtr>> getPhrases(
-  map<int, pair<DNshPtr, vector<DNshPtr>>> const& wordTable,
-  int idx
+PhraseLst getPhrases(
+  WordTable const& wordTable,
+  int idx,
+  int const phraseLen
 ){
-  if(!(wordTable.contains(idx))) return vector<vector<DNshPtr>>();
+  if(!(wordTable.contains(idx))) return PhraseLst();
 
-  vector<vector<DNshPtr>> rtn;
+  PhraseLst rtn;
 
   for(DNshPtr ptr : wordTable.at(idx).second){
     int newIdx = idx + ptr->lemma().length();
-    for(vector<DNshPtr>& phrase : getPhrases(wordTable, newIdx)){
+    for(Phrase& phrase : getPhrases(wordTable, newIdx)){
       phrase.insert(phrase.begin(), ptr);
       rtn.push_back(phrase);
     }
@@ -196,12 +202,22 @@ vector<vector<DNshPtr>> getPhrases(
       rtn.push_back({ptr});
   }
 
+  if(idx == 0){
+    erase_if(rtn, [&phraseLen](Phrase const &phrase) {
+      int currLen = 0;
+      for(DNConstshPtr nodePtr : phrase)
+        currLen += nodePtr->lemma().length();
+
+      return (currLen < phraseLen);
+    });
+  }
+
   return rtn;
 }//end getPhrases
 
 //----------------------------------------------------------------------------
 void findBestPhrase(
-  vector<vector<DNshPtr>> const &phraseLst,
+  PhraseLst const &phraseLst,
   string& maxPhrase,
   double& maxFreq
 ){
@@ -210,7 +226,7 @@ void findBestPhrase(
   double currFreq = 0.0;
   string currPhrase;
   //LOOP THRU phraseLst
-  for(vector<DNshPtr> const& phrase : phraseLst){
+  for(Phrase const& phrase : phraseLst){
     for(DNshPtr const ptr : phrase){
       currFreq += ptr->freq();
       if(currPhrase.empty()) currPhrase = ptr->lemma();
