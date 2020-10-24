@@ -1,0 +1,25 @@
+Alans Birthday Logic Problem
+
+It is Alan’s birthday and he is having a party. Seven other people will attend: Amy, Brad, Beth, Charles, Debbie, Emily and Frances.
+
+Everyone will sit around the circular dining table. The seating arrangement must meet the following conditions:
+
+• Amy and Alan sit together
+
+• Brad and Beth sit together
+
+• Charles sits next to either Debbie or Emily
+
+• Frances sits next to Debbie
+
+• Amy and Alan do not sit next to either Brad or Beth
+
+• Brad does not sit next to Charles or Frances
+
+• Debbie and Emily do not sit next to each other
+
+• Alan does not sit next to either Debbie or Emily
+
+• Amy does not sit next to Charles
+
+Arrange the guests around the table to meet all of the conditions listed above.
