@@ -1,0 +1,3 @@
+/home/kali/Programs/Repos/CSTutor/Build/CMakeFiles/edit_cache.dir
+/home/kali/Programs/Repos/CSTutor/Build/CMakeFiles/rebuild_cache.dir
+/home/kali/Programs/Repos/CSTutor/Build/CMakeFiles/WordParser.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/test.dir/Sources/driver2.cpp.o CMakeFiles/test.dir/Sources/Dict/Dictionary.cpp.o CMakeFiles/test.dir/Sources/Dict/DictionaryNode.cpp.o -o test 

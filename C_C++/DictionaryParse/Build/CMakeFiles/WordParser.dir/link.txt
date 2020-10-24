@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/WordParser.dir/Sources/driver2.cpp.o CMakeFiles/WordParser.dir/Sources/Dictionary/Dictionary.cpp.o CMakeFiles/WordParser.dir/Sources/Dictionary/DictionaryNode.cpp.o -o WordParser 
