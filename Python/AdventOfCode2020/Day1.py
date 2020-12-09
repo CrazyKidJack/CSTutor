@@ -70,4 +70,4 @@ gitHubLoginResponse = loginSession.post(GITHUB_LOGIN_URL, data=gitHubLoginPayloa
 reportResponse = loginSession.get(REPORT_URL)
 
 lineLst = reportResponse.text.splitlines()
-print(findAnswer(lineLst))
+print("solution: "+str(findAnswer(lineLst)))
