@@ -40,6 +40,17 @@ def getTokens(loginSession):
     
   return auth_token, returnTo
 
+def findAnswer(lineLst):
+  for i in range(len(lineLst)-1):
+    need = 2020 - int(lineLst[i])
+    for j in range(i+1, len(lineLst)):
+      if int(lineLst[j]) == need:
+        print("i= "+lineLst[i]+" j= "+lineLst[j])
+        return int(lineLst[i])*int(lineLst[j])
+  else:
+    print("No matches...")
+    sys.exit()
+
 ##############################################################################
 # MAIN
 ##############################################################################
@@ -57,4 +68,6 @@ gitHubLoginPayload = {
 gitHubLoginResponse = loginSession.post(GITHUB_LOGIN_URL, data=gitHubLoginPayload)
 
 reportResponse = loginSession.get(REPORT_URL)
-print(reportResponse.text)
+
+lineLst = reportResponse.text.splitlines()
+print(findAnswer(lineLst))
