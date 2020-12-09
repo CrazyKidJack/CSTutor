@@ -50,6 +50,21 @@ def findPart1Answer(lineLst):
   else:
     print("No matches...")
     sys.exit()
+    
+def findPart2Answer(lineLst):
+  for i in range(len(lineLst)-2):
+    need = 2020 - int(lineLst[i])
+    for j in range(i+1, len(lineLst)-1):
+      if int(lineLst[j]) >= need:
+        continue
+      need2 = need - int(lineLst[j])
+      for k in range(j+1, len(lineLst)):
+        if int(lineLst[k]) == need2:
+          print("i= "+lineLst[i]+" j= "+lineLst[j]+" k= "+lineLst[k])
+          return int(lineLst[i])*int(lineLst[j])*int(lineLst[k])
+  else:
+    print("No matches...")
+    sys.exit()
 
 ##############################################################################
 # MAIN
@@ -71,3 +86,5 @@ reportResponse = loginSession.get(REPORT_URL)
 
 lineLst = reportResponse.text.splitlines()
 print("part1 solution: "+str(findPart1Answer(lineLst)))
+
+print("part2 solution: "+str(findPart2Answer(lineLst)))
