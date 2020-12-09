@@ -40,7 +40,7 @@ def getTokens(loginSession):
     
   return auth_token, returnTo
 
-def findAnswer(lineLst):
+def findPart1Answer(lineLst):
   for i in range(len(lineLst)-1):
     need = 2020 - int(lineLst[i])
     for j in range(i+1, len(lineLst)):
@@ -70,4 +70,4 @@ gitHubLoginResponse = loginSession.post(GITHUB_LOGIN_URL, data=gitHubLoginPayloa
 reportResponse = loginSession.get(REPORT_URL)
 
 lineLst = reportResponse.text.splitlines()
-print("solution: "+str(findAnswer(lineLst)))
+print("part1 solution: "+str(findPart1Answer(lineLst)))
