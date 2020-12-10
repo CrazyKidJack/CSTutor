@@ -12,6 +12,11 @@ GITHUB_LOGIN_URL = "https://github.com/session"
 REPORT_URL = "https://adventofcode.com/2020/day/1/input"
 
 ##############################################################################
+# GLOBALS
+##############################################################################
+loginSession = requests.Session()
+
+##############################################################################
 # FUNCTIONS
 ##############################################################################
 def getCreds():
@@ -23,7 +28,7 @@ def getCreds():
     sys.exit()
   return gitHubUser, gitHubPass
   
-def getTokens(loginSession):
+def getTokens():
   loginInitResponse = loginSession.get(INIT_LOGIN_URL)
 
   authenticity_tokenLst = re.findall('name="authenticity_token" value="([^"]*)"', loginInitResponse.text)
@@ -37,7 +42,6 @@ def getTokens(loginSession):
     print(failure)
     sys.exit()
   returnTo = returnToLst[0]
-    
   return auth_token, returnTo
 
 def findPart1Answer(lineLst):
@@ -66,25 +70,27 @@ def findPart2Answer(lineLst):
     print("No matches...")
     sys.exit()
 
+def login():
+  auth_token, returnTo = getTokens()
+  gitHubUser, gitHubPass = getCreds()
+
+  gitHubLoginPayload = {
+    "authenticity_token": auth_token,
+    "login": gitHubUser,
+    "password": gitHubPass,
+    "return_to": returnTo,
+  }
+  gitHubLoginResponse = loginSession.post(GITHUB_LOGIN_URL, data=gitHubLoginPayload)
+
 ##############################################################################
 # MAIN
 ##############################################################################
-loginSession = requests.Session()
+if __name__ == "__main__":
+  login()
 
-auth_token, returnTo = getTokens(loginSession)
-gitHubUser, gitHubPass = getCreds()
+  reportResponse = loginSession.get(REPORT_URL)
 
-gitHubLoginPayload = {
-  "authenticity_token": auth_token,
-  "login": gitHubUser,
-  "password": gitHubPass,
-  "return_to": returnTo,
-}
-gitHubLoginResponse = loginSession.post(GITHUB_LOGIN_URL, data=gitHubLoginPayload)
+  lineLst = reportResponse.text.splitlines()
+  print("part1 solution: "+str(findPart1Answer(lineLst)))
 
-reportResponse = loginSession.get(REPORT_URL)
-
-lineLst = reportResponse.text.splitlines()
-print("part1 solution: "+str(findPart1Answer(lineLst)))
-
-print("part2 solution: "+str(findPart2Answer(lineLst)))
+  print("part2 solution: "+str(findPart2Answer(lineLst)))
