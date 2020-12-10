@@ -25,6 +25,15 @@ def passwordValid(min, max, letter, password):
     return True
   return False
 
+def passwordValid2(pos1, pos2, letter, password):
+  if password[int(pos1) - 1] == letter:
+    if password[int(pos2) -1] == letter: return False
+    
+    return True
+  elif password[int(pos2) -1] == letter: return True
+  
+  return False
+
 ##############################################################################
 # MAIN
 ##############################################################################
@@ -38,6 +47,11 @@ if __name__ == "__main__":
   for idx in range(len(inputLst)):
     if passwordValid(*(inputLst[idx])):
       numValid += 1
-  
   print("Num Valid: "+str(numValid))
+  
+  numValid = 0
+  for idx in range(len(inputLst)):
+    if passwordValid2(*(inputLst[idx])):
+      numValid += 1
+  print("Num Valid2: "+str(numValid))
   
