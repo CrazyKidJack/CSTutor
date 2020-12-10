@@ -31,12 +31,12 @@ if __name__ == "__main__":
   inputResponse = Auth.loginSession.get(INPUT_URL)
   
   lineLst = inputResponse.text.splitlines()
-  slopeLst = [(1,1),(3,1),(5,1),(7,1),(1,2)]
-  
-  answer2 = 1
-  for slope in slopeLst:
-    answer2 *= countTrees(lineLst, slope)
   
   answer = countTrees(lineLst, (3,1))
   print("Answer: "+str(answer))
+  
+  slopeLst = [(1,1),(3,1),(5,1),(7,1),(1,2)]
+  answer2 = 1
+  for slope in slopeLst:
+    answer2 *= countTrees(lineLst, slope)
   print("Answer2: "+str(answer2))
