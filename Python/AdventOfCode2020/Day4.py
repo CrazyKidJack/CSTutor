@@ -69,7 +69,6 @@ if __name__ == "__main__":
       numValid += 1
     numFields = 0
     foundCid = False
-    numSeen += 1
 
   print("Num valid= "+str(numValid))
   
